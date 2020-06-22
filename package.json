@@ -1,0 +1,41 @@
+{
+  "name": "littlealchemy2-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Sasha Moak <sasha.moak@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc --build tsconfig.json",
+    "prestart": "run-s build",
+    "start": "nodemon 'src/index.ts' --exec 'ts-node' src/index.ts -e ts,graphql",
+    "test:lint": "jest --config config/jest/lint.js"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.1",
+    "@types/graphql-relay": "^0.6.0",
+    "@types/lowdb": "^1.0.9",
+    "@types/node": "^12.7.8",
+    "@typescript-eslint/eslint-plugin": "^3.3.0",
+    "@typescript-eslint/parser": "^3.3.0",
+    "eslint": "^7.3.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-import": "^2.21.2",
+    "eslint-plugin-jest": "^23.16.0",
+    "eslint-plugin-jest-formatting": "^1.2.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "jest": "^26.0.1",
+    "jest-runner-eslint": "^0.9.0",
+    "nodemon": "^1.19.3",
+    "npm-run-all": "^4.1.5",
+    "prettier": "^2.0.5",
+    "ts-node": "^8.4.1",
+    "typescript": "^3.6.3"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "graphql": "^14.1.1",
+    "graphql-relay": "^0.6.0",
+    "lowdb": "^1.0.0"
+  }
+}

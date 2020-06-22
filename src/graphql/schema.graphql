@@ -1,0 +1,20 @@
+type Query {
+  items: [Item!]!
+  node: Node
+}
+
+interface Node {
+   id: ID!
+}
+
+type ItemCombination {
+  source: Item!
+  target: Item!
+}
+
+type Item : Node {
+  id: ID!,
+  name: String!
+  myths: Boolean!
+  creates: [ItemCombination!]!
+}
