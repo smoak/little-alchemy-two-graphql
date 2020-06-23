@@ -2,7 +2,13 @@ import { GraphQLFieldResolver } from 'graphql';
 
 import { findById as findTeamById } from '../../data/repos/item';
 
-const unbase64 = (i: string) => Buffer.from(i, 'base64').toString('utf8');
+type UnBase64 = (i: string) => string;
+const unbase64: UnBase64 = i => Buffer.from(i, 'base64').toString('utf8');
+type Base64 = (i: string) => string;
+const base64: Base64 = i => Buffer.from(i, 'utf8').toString('base64');
+
+type ToGlobalId = (type: string, id: string) => string;
+export const toGlobalId: ToGlobalId = (type, id) => base64([type, id].join(':'));
 
 interface ResolvedGlobalId {
   readonly type: string;

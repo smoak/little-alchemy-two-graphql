@@ -1,9 +1,19 @@
-import { getItemByName, getItems } from '../fetchers/item';
+import { DatabaseItem, getItemByName, getItems } from '../fetchers/item';
 
-interface Item {
+export interface Item {
   readonly name: string;
   readonly myths: boolean;
+  readonly creates: ItemCombination[];
 }
+
+export interface ItemCombination {
+  readonly source: string;
+  readonly target: string;
+}
+
+const withItemCombinations = (item: DatabaseItem): ItemCombination[] =>
+  Object.keys(item.makes).map(source => ({ source, target: item.makes[source] }));
+
 type FindById = (id: string) => Item;
 export const findById: FindById = id => {
   const item = getItemByName(id);
@@ -11,6 +21,7 @@ export const findById: FindById = id => {
   return {
     name: id,
     myths: item.myths,
+    creates: withItemCombinations(item),
   };
 };
 
@@ -21,6 +32,6 @@ export const findAll: FindAll = () => {
   return Object.keys(items).map<Item>(itemName => ({
     name: itemName,
     myths: items[itemName].myths,
-    // makes: items[itemName].makes,
+    creates: withItemCombinations(items[itemName]),
   }));
 };

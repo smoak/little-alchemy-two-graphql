@@ -2,53 +2,59 @@ import {
   GraphQLBoolean,
   GraphQLFieldConfig,
   GraphQLFieldConfigMap,
+  GraphQLList,
   GraphQLNonNull,
   GraphQLObjectType,
   GraphQLString,
-  // Thunk,
+  Thunk,
 } from 'graphql';
+import { globalIdField } from 'graphql-relay';
 
-// import { SourceItemCombinationResolver, TargetItemCombinationResolver } from '../resolvers';
-import { Item } from '../types';
+import { Item, ItemCombination } from '../../data/repos/item';
+import { SourceItemCombinationResolver, TargetItemCombinationResolver } from '../resolvers';
 
-import { IDFetcher, globalIdField, nodeInterface } from './node';
+import { nodeInterface } from './node';
 
-const idFetcher: IDFetcher<Item> = obj => obj.name;
-
-interface ItemFields extends GraphQLFieldConfigMap<unknown, unknown, unknown> {
-  readonly name: GraphQLFieldConfig<unknown, unknown, unknown>;
-  readonly myths: GraphQLFieldConfig<unknown, unknown, unknown>;
+interface ItemFields extends GraphQLFieldConfigMap<Item, unknown, unknown> {
+  readonly name: GraphQLFieldConfig<Item, unknown, unknown>;
+  readonly myths: GraphQLFieldConfig<Item, unknown, unknown>;
   readonly id: GraphQLFieldConfig<unknown, unknown, unknown>;
-  // readonly creates: GraphQLFieldConfig<unknown, unknown, unknown>;
+  readonly creates: GraphQLFieldConfig<Item, unknown, unknown>;
 }
 
-// interface ItemCombinationFields extends GraphQLFieldConfigMap<unknown, unknown, unknown> {
-//   readonly source: GraphQLFieldConfig<unknown, unknown, unknown>;
-//   readonly target: GraphQLFieldConfig<unknown, unknown, unknown>;
-// }
+interface ItemCombinationFields extends GraphQLFieldConfigMap<ItemCombination, unknown, unknown> {
+  readonly source: GraphQLFieldConfig<ItemCombination, unknown, unknown>;
+  readonly target: GraphQLFieldConfig<ItemCombination, unknown, unknown>;
+}
 
 type Fields = () => ItemFields;
 const fields: Fields = () => ({
   name: { type: new GraphQLNonNull(GraphQLString) },
   myths: { type: new GraphQLNonNull(GraphQLBoolean) },
-  id: globalIdField<Item>({ idFetcher }),
-  // creates: { type: new GraphQLNonNull(new GraphQLList(ItemCombinationType)), resolve: ItemCombinationResolver },
+  id: globalIdField('Item', obj => obj.name),
+  creates: {
+    type: new GraphQLNonNull(new GraphQLList(new GraphQLNonNull(ItemCombinationType))),
+  },
 });
 
-// const itemCombinationFields: Thunk<ItemCombinationFields> = () => ({
-//   source: { type: new GraphQLNonNull(ItemType), resolve: SourceItemCombinationResolver },
-//   target: { type: new GraphQLNonNull(ItemType), resolve: TargetItemCombinationResolver },
-// });
+const itemCombinationFields: Thunk<ItemCombinationFields> = () => ({
+  source: { type: new GraphQLNonNull(ItemType), resolve: SourceItemCombinationResolver },
+  target: { type: new GraphQLNonNull(ItemType), resolve: TargetItemCombinationResolver },
+});
 
-export const ItemType = new GraphQLObjectType<unknown, unknown, unknown>({
+export const ItemType = new GraphQLObjectType<Item, unknown, unknown>({
   name: 'Item',
   description: 'An item',
   interfaces: [nodeInterface],
   fields,
+  isTypeOf: source =>
+    Object.keys(source).includes('name') &&
+    Object.keys(source).includes('myths') &&
+    Object.keys(source).includes('creates'),
 });
 
-// export const ItemCombinationType = new GraphQLObjectType<unknown, unknown, unknown>({
-//   name: 'ItemCombination',
-//   description: 'A combination of two items',
-//   fields: itemCombinationFields,
-// });
+export const ItemCombinationType = new GraphQLObjectType<ItemCombination, unknown, unknown>({
+  name: 'ItemCombination',
+  description: 'A combination of two items',
+  fields: itemCombinationFields,
+});
