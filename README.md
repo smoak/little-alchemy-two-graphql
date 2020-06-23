@@ -6,13 +6,13 @@ This is a GraphQL server for the [Little Alchemy 2](https://littlealchemy2.com/)
 
 ### Requirements
 
-- yarn
+- npm
 - node LTS
 
 ### Setup
 
-`yarn`
+`npm i`
 
 ### Running
 
-`yarn start`
+`npm start`
