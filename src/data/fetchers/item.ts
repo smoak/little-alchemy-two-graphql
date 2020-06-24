@@ -11,6 +11,7 @@ interface DatabaseSchema {
 export interface DatabaseItem {
   readonly myths: boolean;
   readonly makes: Record<string, string>;
+  readonly combinations: string[][];
 }
 
 type DatabaseItems = Record<string, DatabaseItem>;

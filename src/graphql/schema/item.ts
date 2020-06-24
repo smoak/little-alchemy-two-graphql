@@ -20,6 +20,7 @@ interface ItemFields extends GraphQLFieldConfigMap<Item, unknown, unknown> {
   readonly myths: GraphQLFieldConfig<Item, unknown, unknown>;
   readonly id: GraphQLFieldConfig<unknown, unknown, unknown>;
   readonly creates: GraphQLFieldConfig<Item, unknown, unknown>;
+  readonly combinations: GraphQLFieldConfig<Item, unknown, unknown>;
 }
 
 interface ItemCombinationFields extends GraphQLFieldConfigMap<ItemCombination, unknown, unknown> {
@@ -33,6 +34,11 @@ const fields: Fields = () => ({
   myths: { type: new GraphQLNonNull(GraphQLBoolean) },
   id: globalIdField('Item', obj => obj.name),
   creates: {
+    description: 'The items that this item creates',
+    type: new GraphQLNonNull(new GraphQLList(new GraphQLNonNull(ItemCombinationType))),
+  },
+  combinations: {
+    description: 'The items that create this item',
     type: new GraphQLNonNull(new GraphQLList(new GraphQLNonNull(ItemCombinationType))),
   },
 });
