@@ -7513,7 +7513,7 @@
     },
     "earth": {
       "myths": false,
-      "combinations": null,
+      "combinations": [],
       "makes": {
         "air": "dust",
         "algae": "plant",
@@ -10838,7 +10838,7 @@
     },
     "good": {
       "myths": true,
-      "combinations": null,
+      "combinations": [],
       "makes": {
         "box": "pandoras-box",
         "container": "pandoras-box",
@@ -13120,7 +13120,7 @@
     },
     "immortality": {
       "myths": true,
-      "combinations": null,
+      "combinations": [],
       "makes": {
         "alchemist": "philosophers-stone",
         "book": "book-of-the-dead",
@@ -16033,7 +16033,7 @@
     },
     "monster": {
       "myths": true,
-      "combinations": null,
+      "combinations": [],
       "makes": {
         "airplane": "gremlin",
         "batter": "ooze",
@@ -24946,7 +24946,7 @@
     },
     "time": {
       "myths": false,
-      "combinations": null,
+      "combinations": [],
       "makes": {
         "animal": "human",
         "bee": "honey",
