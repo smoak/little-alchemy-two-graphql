@@ -13,10 +13,20 @@ type ItemCombination {
   target: Item!
 }
 
+type ItemCombinationConnection {
+  edges: [ItemCombinationEdge!]!
+  pageInfo: PageInfo!
+}
+
+type ItemCombinationEdge {
+  cursor: String!
+  node: ItemCombination!
+}
+
 type Item : Node {
   id: ID!,
   name: String!
   myths: Boolean!
-  creates: [ItemCombination!]!
-  combinations: [ItemCombination!]!
+  creates: ItemCombinationConnection!
+  combinations: ItemCombinationConnection!
 }

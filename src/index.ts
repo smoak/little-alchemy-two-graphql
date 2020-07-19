@@ -5,6 +5,7 @@ import schema from './graphql/schema';
 
 const app = express();
 const port = 8080;
+const hostname = '0.0.0.0';
 
 app.use(
   '/graphql',
@@ -14,8 +15,8 @@ app.use(
   })
 );
 
-app.listen(port, () => {
-  console.log(`server started at http://localhost:${port}`);
+app.listen(port, hostname, () => {
+  console.log(`server started at http://${hostname}:${port}`);
 });
 
 export default app;

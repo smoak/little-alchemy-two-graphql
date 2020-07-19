@@ -1,6 +1,7 @@
 import { GraphQLFieldResolver } from 'graphql';
+import { ConnectionArguments, connectionFromArray } from 'graphql-relay';
 
-import { ItemCombination, findAll, findById } from '../../data/repos/item';
+import { Item, ItemCombination, findAll, findById } from '../../data/repos/item';
 import { Query } from '../types';
 
 export const ItemsResolver: GraphQLFieldResolver<Query, unknown, unknown> = (_source, _args, _context, _info) =>
@@ -25,3 +26,8 @@ export const TargetItemCombinationResolver: GraphQLFieldResolver<ItemCombination
   _context,
   _info
 ) => findById(parent.target);
+
+export const ItemCombinationConnectionResolver: GraphQLFieldResolver<Item, unknown, ConnectionArguments> = (
+  item,
+  args
+) => connectionFromArray(item.combinations, args);
