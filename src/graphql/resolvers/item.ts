@@ -1,33 +1,23 @@
-import { GraphQLFieldResolver } from 'graphql';
-import { ConnectionArguments, connectionFromArray } from 'graphql-relay';
+import { Connection, ConnectionArguments, connectionFromArray } from 'graphql-relay';
 
 import { Item, ItemCombination, findAll, findById } from '../../data/repos/item';
 import { Query } from '../types';
 
-export const ItemsResolver: GraphQLFieldResolver<Query, unknown, unknown> = (_source, _args, _context, _info) =>
-  findAll();
+type ItemsResolver = () => Item[];
+export const itemsResolver: ItemsResolver = () => findAll();
 
 interface ItemWithNameResolverArgs {
   readonly name: string;
 }
-export const ItemWithNameResolver: GraphQLFieldResolver<Query, unknown, ItemWithNameResolverArgs> = (_source, args) =>
-  findById(args.name);
+type ItemWithNameResolver = (source: Query, args: ItemWithNameResolverArgs) => Item;
+export const itemWithNameResolver: ItemWithNameResolver = (_source, args) => findById(args.name);
 
-export const SourceItemCombinationResolver: GraphQLFieldResolver<ItemCombination, unknown, unknown> = (
-  parent,
-  _args,
-  _context,
-  _info
-) => findById(parent.source);
+type SourceItemCombinationResolver = (source: ItemCombination) => Item;
+export const sourceItemCombinationResolver: SourceItemCombinationResolver = parent => findById(parent.source);
 
-export const TargetItemCombinationResolver: GraphQLFieldResolver<ItemCombination, unknown, unknown> = (
-  parent,
-  _args,
-  _context,
-  _info
-) => findById(parent.target);
+type TargetItemCombinationResolver = (source: ItemCombination) => Item;
+export const targetItemCombinationResolver: TargetItemCombinationResolver = parent => findById(parent.target);
 
-export const ItemCombinationConnectionResolver: GraphQLFieldResolver<Item, unknown, ConnectionArguments> = (
-  item,
-  args
-) => connectionFromArray(item.combinations, args);
+type ItemCombinationConnectionResolver = (source: Item, args: ConnectionArguments) => Connection<ItemCombination>;
+export const itemCombinationConnectionResolver: ItemCombinationConnectionResolver = (item, args) =>
+  connectionFromArray(item.combinations, args);

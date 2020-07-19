@@ -11,9 +11,9 @@ import { connectionArgs, connectionDefinitions, globalIdField } from 'graphql-re
 
 import { Item, ItemCombination } from '../../data/repos/item';
 import {
-  ItemCombinationConnectionResolver,
-  SourceItemCombinationResolver,
-  TargetItemCombinationResolver,
+  itemCombinationConnectionResolver,
+  sourceItemCombinationResolver,
+  targetItemCombinationResolver,
 } from '../resolvers';
 
 import { nodeInterface } from './node';
@@ -32,8 +32,8 @@ interface ItemCombinationFields extends GraphQLFieldConfigMap<ItemCombination, u
 }
 
 const itemCombinationFields: Thunk<ItemCombinationFields> = () => ({
-  source: { type: new GraphQLNonNull(ItemType), resolve: SourceItemCombinationResolver },
-  target: { type: new GraphQLNonNull(ItemType), resolve: TargetItemCombinationResolver },
+  source: { type: new GraphQLNonNull(ItemType), resolve: sourceItemCombinationResolver },
+  target: { type: new GraphQLNonNull(ItemType), resolve: targetItemCombinationResolver },
 });
 
 export const ItemCombinationType = new GraphQLObjectType<ItemCombination, unknown, unknown>({
@@ -55,13 +55,13 @@ const fields: Fields = () => ({
     description: 'The items that this item creates',
     type: new GraphQLNonNull(ItemCombinationConnection),
     args: connectionArgs,
-    resolve: ItemCombinationConnectionResolver,
+    resolve: itemCombinationConnectionResolver,
   },
   combinations: {
     description: 'The items that create this item',
     type: new GraphQLNonNull(ItemCombinationConnection),
     args: connectionArgs,
-    resolve: ItemCombinationConnectionResolver,
+    resolve: itemCombinationConnectionResolver,
   },
 });
 

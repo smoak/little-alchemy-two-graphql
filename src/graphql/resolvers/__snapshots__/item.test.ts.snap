@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`item .itemCombinationConnectionResolver returns the expected result 1`] = `
+Object {
+  "edges": Array [
+    Object {
+      "cursor": "YXJyYXljb25uZWN0aW9uOjA=",
+      "node": Object {
+        "source": "source-item",
+        "target": "target-item",
+      },
+    },
+  ],
+  "pageInfo": Object {
+    "endCursor": "YXJyYXljb25uZWN0aW9uOjA=",
+    "hasNextPage": false,
+    "hasPreviousPage": false,
+    "startCursor": "YXJyYXljb25uZWN0aW9uOjA=",
+  },
+}
+`;
