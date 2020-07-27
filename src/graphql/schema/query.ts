@@ -1,14 +1,20 @@
-import { GraphQLList, GraphQLNonNull, GraphQLObjectType, GraphQLString } from 'graphql';
+import { GraphQLNonNull, GraphQLObjectType, GraphQLString } from 'graphql';
+import { connectionArgs } from 'graphql-relay';
 
-import { itemWithNameResolver, itemsResolver } from '../resolvers';
+import { itemConnectionResolver, itemWithNameResolver } from '../resolvers';
 
-import { ItemType } from './item';
+import { ItemConnection, ItemType } from './item';
 import { nodeField } from './node';
 
 export const query = new GraphQLObjectType({
   name: 'Query',
   fields: {
-    items: { type: new GraphQLNonNull(new GraphQLList(new GraphQLNonNull(ItemType))), resolve: itemsResolver },
+    items: {
+      description: 'All the items in the game',
+      type: new GraphQLNonNull(ItemConnection),
+      args: connectionArgs,
+      resolve: itemConnectionResolver,
+    },
     item: {
       type: ItemType,
       args: { name: { type: new GraphQLNonNull(GraphQLString) } },

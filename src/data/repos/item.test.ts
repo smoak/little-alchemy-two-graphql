@@ -19,12 +19,10 @@ describe('item', () => {
     describe('when the item cannot be found', () => {
       beforeEach(() => {
         (getItemByName as jest.Mock).mockReturnValue(undefined);
-
-        result = findById('foo');
       });
 
-      it('is `undefined`', () => {
-        expect(result).toBeUndefined();
+      it('throws an error', () => {
+        expect(() => findById('foo')).toThrowErrorMatchingSnapshot();
       });
     });
 

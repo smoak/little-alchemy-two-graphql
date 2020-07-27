@@ -25,12 +25,12 @@ const fromItemWithName = (name: string, item: DatabaseItem): Item => ({
   combinations: fromCombinations(item.combinations),
 });
 
-type FindById = (id: string) => Item | undefined;
+type FindById = (id: string) => Item;
 export const findById: FindById = id => {
   const item = getItemByName(id);
 
   if (!item) {
-    return;
+    throw new Error(`Could not find item with id: ${id}`);
   }
 
   return fromItemWithName(id, item);

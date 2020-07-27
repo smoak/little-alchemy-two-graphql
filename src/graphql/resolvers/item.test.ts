@@ -7,6 +7,7 @@ import { Query } from '../types';
 
 import {
   itemCombinationConnectionResolver,
+  itemConnectionResolver,
   itemWithNameResolver,
   itemsResolver,
   sourceItemCombinationResolver,
@@ -88,6 +89,23 @@ describe('item', () => {
       };
       const args: ConnectionArguments = {};
       result = itemCombinationConnectionResolver(item, args);
+    });
+
+    it('returns the expected result', () => {
+      expect(result).toMatchSnapshot();
+    });
+  });
+
+  describe('.itemConnectionResolver', () => {
+    let result: ReturnType<typeof itemConnectionResolver>;
+
+    beforeEach(() => {
+      const query: Query = {
+        items: [],
+      };
+      const args: ConnectionArguments = {};
+
+      result = itemConnectionResolver(query, args);
     });
 
     it('returns the expected result', () => {

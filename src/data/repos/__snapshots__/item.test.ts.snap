@@ -39,3 +39,5 @@ Object {
   "name": "item",
 }
 `;
+
+exports[`item .findById when the item cannot be found throws an error 1`] = `"Could not find item with id: foo"`;

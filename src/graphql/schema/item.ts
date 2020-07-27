@@ -75,3 +75,7 @@ export const ItemType = new GraphQLObjectType<Item, unknown, unknown>({
     Object.keys(source).includes('myths') &&
     Object.keys(source).includes('creates'),
 });
+
+export const { connectionType: ItemConnection } = connectionDefinitions({
+  nodeType: ItemType,
+});

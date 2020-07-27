@@ -1,11 +1,28 @@
 type Query {
-  items: [Item!]!
+  items: ItemConnection! 
   node: Node
   item(name: String!): Item
 }
 
 interface Node {
    id: ID!
+}
+
+type PageInfo {
+  hasPreviousPage: Boolean!
+  hasNextPage: Boolean!
+  startCursor: String!
+  endCursor: String!
+}
+
+type ItemConnection {
+  edges: [ItemEdge!]!
+  pageInfo: PageInfo!
+}
+
+type ItemEdge {
+  cursor: String!
+  node: Item!
 }
 
 type ItemCombination {
