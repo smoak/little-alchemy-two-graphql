@@ -25,9 +25,14 @@ const fromItemWithName = (name: string, item: DatabaseItem): Item => ({
   combinations: fromCombinations(item.combinations),
 });
 
-type FindById = (id: string) => Item;
+type FindById = (id: string) => Item | undefined;
 export const findById: FindById = id => {
   const item = getItemByName(id);
+
+  if (!item) {
+    return;
+  }
+
   return fromItemWithName(id, item);
 };
 

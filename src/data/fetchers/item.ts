@@ -19,5 +19,5 @@ type DatabaseItems = Record<string, DatabaseItem>;
 type GetItems = () => DatabaseItems;
 export const getItems: GetItems = () => db.get('items').value();
 
-type GetItemByName = (name: string) => DatabaseItem;
+type GetItemByName = (name: string) => DatabaseItem | undefined;
 export const getItemByName: GetItemByName = name => db.get('items').value()[name];

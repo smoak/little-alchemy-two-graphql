@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`item .findAll when there are items returns the expected result 1`] = `
+Array [
+  Object {
+    "combinations": Array [
+      Object {
+        "source": "item1",
+        "target": "item2",
+      },
+    ],
+    "creates": Array [
+      Object {
+        "source": "item1",
+        "target": "item2",
+      },
+    ],
+    "myths": false,
+    "name": "item",
+  },
+]
+`;
+
+exports[`item .findById when the item can be found returns the expected result 1`] = `
+Object {
+  "combinations": Array [
+    Object {
+      "source": "item1",
+      "target": "item2",
+    },
+  ],
+  "creates": Array [
+    Object {
+      "source": "item1",
+      "target": "item2",
+    },
+  ],
+  "myths": false,
+  "name": "item",
+}
+`;
