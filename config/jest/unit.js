@@ -9,7 +9,7 @@ module.exports = {
       statements: 100,
     },
   },
-  reporters: ['default'],
+  reporters: ['default', 'jest-junit'],
   rootDir: '../..',
   testRegex: '\\.test\\.ts$',
   watchPlugins: ['jest-watch-typeahead/filename', 'jest-watch-typeahead/testname'],
