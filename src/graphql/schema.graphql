@@ -1,11 +1,12 @@
 type Query {
-  items: ItemConnection! 
-  node: Node
+  items(after: String, first: Int, before: String, last: Int): ItemConnection!
+  node(id: ID!): Node
   item(name: String!): Item
+  search(query: String!): SearchResults!
 }
 
 interface Node {
-   id: ID!
+  id: ID!
 }
 
 type PageInfo {
@@ -16,7 +17,7 @@ type PageInfo {
 }
 
 type ItemConnection {
-  edges: [ItemEdge!]!
+  edges: [ItemEdge]
   pageInfo: PageInfo!
 }
 
@@ -31,7 +32,7 @@ type ItemCombination {
 }
 
 type ItemCombinationConnection {
-  edges: [ItemCombinationEdge!]!
+  edges: [ItemCombinationEdge]
   pageInfo: PageInfo!
 }
 
@@ -40,10 +41,20 @@ type ItemCombinationEdge {
   node: ItemCombination!
 }
 
-type Item : Node {
-  id: ID!,
+type Item implements Node {
+  id: ID!
   name: String!
   myths: Boolean!
-  creates: ItemCombinationConnection!
-  combinations: ItemCombinationConnection!
+  creates(after: String, first: Int, before: String, last: Int): ItemCombinationConnection!
+  combinations(after: String, first: Int, before: String, last: Int): ItemCombinationConnection!
 }
+
+type ItemSearchResults {
+  items(after: String, first: Int, before: String, last: Int): ItemConnection!
+}
+
+type NoSearchResults {
+  message: String!
+}
+
+union SearchResults = NoSearchResults | ItemSearchResults
