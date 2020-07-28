@@ -4,7 +4,7 @@ import GraphQLHTTP from 'express-graphql';
 import schema from './graphql/schema';
 
 const app = express();
-const port = 8080;
+const port = process.env.PORT ? parseInt(process.env.PORT, 10) : 8080;
 const hostname = '0.0.0.0';
 
 app.use(
