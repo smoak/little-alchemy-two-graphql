@@ -48,10 +48,16 @@ stages:
           package.json
         TargetFolder: '$(Build.ArtifactStagingDirectory)'
 
-    - task: PublishBuildArtifacts@1
+    - task: ArchiveFiles@2
       inputs:
-        pathtoPublish: $(Build.ArtifactStagingDirectory)
-        ArtifactName: 'www' # output artifact named www
+        rootFolderOrFile: '$(Build.ArtifactStagingDirectory)'
+        includeRootFolder: false
+        archiveType: zip
+        archiveFile: $(Build.ArtifactStagingDirectory)/$(Build.BuildId).zip
+        replaceExistingArchive: true
+
+    - upload: $(Build.ArtifactStagingDirectory)/$(Build.BuildId).zip
+      artifact: drop
 
 - stage: Deploy
   displayName: Deploy stage
