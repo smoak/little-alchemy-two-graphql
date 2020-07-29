@@ -42,7 +42,10 @@ stages:
 
     - task: CopyFiles@2
       inputs:
-        Contents: package.json
+        Contents: |
+          package.json
+          package-lock.json
+          db.json
         TargetFolder: '$(Build.ArtifactStagingDirectory)'
         flattenFolders: true
         Overwrite: true
@@ -86,4 +89,4 @@ stages:
               appName: $(webAppName)
               runtimeStack: 'NODE|10.10'
               package: $(Pipeline.Workspace)/drop/$(Build.BuildId).zip
-              startUpCommand: 'npm install && node src/index.js'
+              startUpCommand: 'npm ci && node src/index.js'
