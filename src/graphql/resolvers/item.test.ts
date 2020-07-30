@@ -8,6 +8,7 @@ import { Query } from '../types';
 import {
   itemCombinationConnectionResolver,
   itemConnectionResolver,
+  itemCreationConnectionResolver,
   itemWithNameResolver,
   itemsResolver,
   sourceItemCombinationResolver,
@@ -102,6 +103,26 @@ describe('item', () => {
       };
       const args: ConnectionArguments = {};
       result = itemCombinationConnectionResolver(item, args);
+    });
+
+    it('returns the expected result', () => {
+      expect(result).toMatchSnapshot();
+    });
+  });
+
+  describe('.itemCreationConnectionResolver', () => {
+    let result: ReturnType<typeof itemCreationConnectionResolver>;
+
+    beforeEach(() => {
+      const item: Item = {
+        name: 'test-item',
+        combinations: [itemCombination],
+        creates: [itemCombination],
+        myths: false,
+      };
+      const args: ConnectionArguments = {};
+
+      result = itemCreationConnectionResolver(item, args);
     });
 
     it('returns the expected result', () => {

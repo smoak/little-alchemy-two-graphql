@@ -12,6 +12,7 @@ import { connectionArgs, connectionDefinitions, globalIdField } from 'graphql-re
 import { Item, ItemCombination } from '../../data/repos/item';
 import {
   itemCombinationConnectionResolver,
+  itemCreationConnectionResolver,
   sourceItemCombinationResolver,
   targetItemCombinationResolver,
 } from '../resolvers';
@@ -55,7 +56,7 @@ const fields: Fields = () => ({
     description: 'The items that this item creates',
     type: new GraphQLNonNull(ItemCombinationConnection),
     args: connectionArgs,
-    resolve: itemCombinationConnectionResolver,
+    resolve: itemCreationConnectionResolver,
   },
   combinations: {
     description: 'The items that create this item',

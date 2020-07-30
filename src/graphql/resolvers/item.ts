@@ -22,5 +22,9 @@ type ItemCombinationConnectionResolver = (source: Item, args: ConnectionArgument
 export const itemCombinationConnectionResolver: ItemCombinationConnectionResolver = (item, args) =>
   connectionFromArray(item.combinations, args);
 
+type ItemCreationConnectionResolver = (source: Item, args: ConnectionArguments) => Connection<ItemCombination>;
+export const itemCreationConnectionResolver: ItemCreationConnectionResolver = (item, args) =>
+  connectionFromArray(item.creates, args);
+
 type ItemConnectionResolver = (source: Query, args: ConnectionArguments) => Connection<Item>;
 export const itemConnectionResolver: ItemConnectionResolver = (_query, args) => connectionFromArray(findAll(), args);
