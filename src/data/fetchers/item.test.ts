@@ -1,4 +1,4 @@
-import { getItemByName, getItems } from './item';
+import { getItemByName, getItemNames, getItems } from './item';
 
 describe('item', () => {
   describe('.getItems', () => {
@@ -24,6 +24,18 @@ describe('item', () => {
       it('should be undefined', () => {
         expect(result).toBeUndefined();
       });
+    });
+  });
+
+  describe('.getItemNames', () => {
+    let result: ReturnType<typeof getItemNames>;
+
+    beforeEach(() => {
+      result = getItemNames();
+    });
+
+    it('returns the expected result', () => {
+      expect(result).toMatchSnapshot();
     });
   });
 });

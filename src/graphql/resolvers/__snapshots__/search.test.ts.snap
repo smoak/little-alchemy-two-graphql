@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`search .itemSearchResultsResolver returns the expected result 1`] = `
+Object {
+  "edges": Array [
+    Object {
+      "cursor": "YXJyYXljb25uZWN0aW9uOjA=",
+      "node": Object {
+        "combinations": Array [],
+        "creates": Array [],
+        "myths": false,
+        "name": "test",
+      },
+    },
+  ],
+  "pageInfo": Object {
+    "endCursor": "YXJyYXljb25uZWN0aW9uOjA=",
+    "hasNextPage": false,
+    "hasPreviousPage": false,
+    "startCursor": "YXJyYXljb25uZWN0aW9uOjA=",
+  },
+}
+`;
+
+exports[`search .searchResultsResolver with no results returns the expected result 1`] = `
+Object {
+  "message": "No results matched test",
+}
+`;
+
+exports[`search .searchResultsResolver with results returns the expected result 1`] = `
+Object {
+  "items": Array [
+    Object {
+      "combinations": Array [],
+      "creates": Array [],
+      "myths": false,
+      "name": "test",
+    },
+  ],
+}
+`;

@@ -1,8 +1,8 @@
 jest.mock('../fetchers/item');
 
-import { DatabaseItem, getItemByName, getItems } from '../fetchers/item';
+import { DatabaseItem, getItemByName, getItemNames, getItems } from '../fetchers/item';
 
-import { findAll, findById } from './item';
+import { findAll, findById, search } from './item';
 
 describe('item', () => {
   const item: DatabaseItem = {
@@ -62,6 +62,35 @@ describe('item', () => {
         (getItems as jest.Mock).mockReturnValue(items);
 
         result = findAll();
+      });
+
+      it('returns the expected result', () => {
+        expect(result).toMatchSnapshot();
+      });
+    });
+  });
+
+  describe('.search', () => {
+    let result: ReturnType<typeof search>;
+
+    describe('when the query doesnt match anything', () => {
+      beforeEach(() => {
+        (getItemNames as jest.Mock).mockReturnValue(['item1']);
+
+        result = search('nomatch');
+      });
+
+      it('returns the expected result', () => {
+        expect(result).toMatchSnapshot();
+      });
+    });
+
+    describe('when the query matches', () => {
+      beforeEach(() => {
+        (getItemNames as jest.Mock).mockReturnValue(['item1']);
+        (getItemByName as jest.Mock).mockReturnValue(item);
+
+        result = search('item');
       });
 
       it('returns the expected result', () => {

@@ -1,4 +1,6 @@
-import { DatabaseItem, getItemByName, getItems } from '../fetchers/item';
+import Fuse from 'fuse.js';
+
+import { DatabaseItem, getItemByName, getItemNames, getItems } from '../fetchers/item';
 
 export interface Item {
   readonly name: string;
@@ -44,4 +46,16 @@ export const findAll: FindAll = () => {
     const item = items[itemName];
     return fromItemWithName(itemName, item);
   });
+};
+
+type Search = (query: string) => Item[];
+export const search: Search = query => {
+  const items = getItemNames();
+  const options: Fuse.IFuseOptions<string> = {
+    minMatchCharLength: 2,
+    threshold: 1,
+  };
+  const fuse = new Fuse(items, options);
+  const results = fuse.search(query);
+  return results.map(result => findById(result.item));
 };

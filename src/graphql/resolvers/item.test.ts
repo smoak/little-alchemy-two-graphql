@@ -20,6 +20,20 @@ describe('item', () => {
     source: 'source-item',
     target: 'target-item',
   };
+  const query: Query = {
+    items: {
+      pageInfo: {},
+      edges: [],
+    },
+    node: null,
+    item: null,
+    search: {
+      items: {
+        pageInfo: {},
+        edges: [],
+      },
+    },
+  };
 
   beforeEach(() => {
     (findAll as jest.Mock).mockReturnValue(items);
@@ -42,7 +56,6 @@ describe('item', () => {
     let result: ReturnType<typeof itemWithNameResolver>;
 
     beforeEach(() => {
-      const query: Query = { items: [] };
       const args = { name: 'test-item' };
 
       result = itemWithNameResolver(query, args);
@@ -100,9 +113,6 @@ describe('item', () => {
     let result: ReturnType<typeof itemConnectionResolver>;
 
     beforeEach(() => {
-      const query: Query = {
-        items: [],
-      };
       const args: ConnectionArguments = {};
 
       result = itemConnectionResolver(query, args);

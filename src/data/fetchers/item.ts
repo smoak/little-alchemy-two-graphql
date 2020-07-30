@@ -21,3 +21,6 @@ export const getItems: GetItems = () => db.get('items').value();
 
 type GetItemByName = (name: string) => DatabaseItem | undefined;
 export const getItemByName: GetItemByName = name => db.get('items').value()[name];
+
+type GetItemNames = () => string[];
+export const getItemNames: GetItemNames = () => db.get('items').keys().value();

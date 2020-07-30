@@ -5,6 +5,7 @@ import { itemConnectionResolver, itemWithNameResolver } from '../resolvers';
 
 import { ItemConnection, ItemType } from './item';
 import { nodeField } from './node';
+import { searchField } from './search';
 
 export const query = new GraphQLObjectType({
   name: 'Query',
@@ -21,5 +22,6 @@ export const query = new GraphQLObjectType({
       resolve: itemWithNameResolver,
     },
     node: nodeField,
+    search: searchField,
   },
 });

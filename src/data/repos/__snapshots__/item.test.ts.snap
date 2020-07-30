@@ -41,3 +41,26 @@ Object {
 `;
 
 exports[`item .findById when the item cannot be found throws an error 1`] = `"Could not find item with id: foo"`;
+
+exports[`item .search when the query doesnt match anything returns the expected result 1`] = `Array []`;
+
+exports[`item .search when the query matches returns the expected result 1`] = `
+Array [
+  Object {
+    "combinations": Array [
+      Object {
+        "source": "item1",
+        "target": "item2",
+      },
+    ],
+    "creates": Array [
+      Object {
+        "source": "item1",
+        "target": "item2",
+      },
+    ],
+    "myths": false,
+    "name": "item1",
+  },
+]
+`;
