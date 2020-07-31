@@ -7,7 +7,7 @@ import { SearchArgs } from '../types';
 import { ItemConnection } from './item';
 
 export const ItemSearchResultsType = new GraphQLObjectType({
-  name: 'ItemSearchResultsType',
+  name: 'ItemSearchResults',
   description: 'Item search results',
   fields: {
     items: {
