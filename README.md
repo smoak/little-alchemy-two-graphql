@@ -16,3 +16,7 @@ This is a GraphQL server for the [Little Alchemy 2](https://littlealchemy2.com/)
 ### Running
 
 `npm start`
+
+### Testing
+
+`npm test`
