@@ -5,7 +5,7 @@
     "composite": true,
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
-    "importHelpers": true,
+    "importHelpers": false,
     "isolatedModules": true,
     "lib": ["es2015"],
     "module": "commonjs",
