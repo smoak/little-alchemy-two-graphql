@@ -6,12 +6,12 @@
   "license": "MIT",
   "scripts": {
     "build": "tsc --build tsconfig.json",
-    "prestart": "npm run build",
+    "prestart": "run-s build",
     "start": "nodemon 'src/index.ts' --exec 'ts-node' src/index.ts -e ts,graphql",
     "test": "run-s test:lint test:unit",
     "test:lint": "jest --config config/jest/lint.js",
     "test:unit": "jest --config config/jest/unit.js --coverage",
-    "test:unit:watch": "npm run test:unit -- --watchAll"
+    "test:unit:watch": "run-s test:unit -- --watchAll"
   },
   "devDependencies": {
     "@babel/core": "^7.10.5",
