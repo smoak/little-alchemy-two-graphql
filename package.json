@@ -4,8 +4,10 @@
   "main": "index.js",
   "author": "Sasha Moak <sasha.moak@gmail.com>",
   "license": "MIT",
+  "engines": { "node": "12.20.0" },
   "scripts": {
     "build": "tsc --build tsconfig.json",
+    "postinstall": "tsc --build tsconfig.json",
     "prestart": "run-s build",
     "start": "nodemon 'src/index.ts' --exec 'ts-node' src/index.ts -e ts,graphql",
     "test": "run-s test:lint test:unit",
