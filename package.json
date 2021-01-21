@@ -6,7 +6,7 @@
   "license": "MIT",
   "scripts": {
     "build": "tsc --build tsconfig.json",
-    "prestart": "run-s build",
+    "prestart": "npm run build",
     "start": "nodemon 'src/index.ts' --exec 'ts-node' src/index.ts -e ts,graphql",
     "test": "run-s test:lint test:unit",
     "test:lint": "jest --config config/jest/lint.js",
