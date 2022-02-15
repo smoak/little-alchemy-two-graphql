@@ -2509,12 +2509,10 @@ Object {
         "source": "wagon",
         "target": "sleigh",
       },
-      Array [
-        Object {
-          "source": "dog",
-          "target": "seal",
-        },
-      ],
+      Object {
+        "source": "dog",
+        "target": "seal",
+      },
     ],
     "myths": false,
   },
