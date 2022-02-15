@@ -1650,6 +1650,10 @@
           "target": "husky"
         },
         {
+          "source": "dog",
+          "target": "seal"
+        },
+        {
           "source": "electricity",
           "target": "aurora"
         },
@@ -1672,10 +1676,6 @@
         {
           "source": "wagon",
           "target": "sleigh"
-        },
-        {
-          "source": "dog",
-          "target": "seal"
         }
       ]
     },

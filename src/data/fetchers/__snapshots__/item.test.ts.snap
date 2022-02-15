@@ -2486,6 +2486,10 @@ Object {
         "target": "husky",
       },
       Object {
+        "source": "dog",
+        "target": "seal",
+      },
+      Object {
         "source": "electricity",
         "target": "aurora",
       },
@@ -2508,10 +2512,6 @@ Object {
       Object {
         "source": "wagon",
         "target": "sleigh",
-      },
-      Object {
-        "source": "dog",
-        "target": "seal",
       },
     ],
     "myths": false,
