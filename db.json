@@ -1673,12 +1673,10 @@
           "source": "wagon",
           "target": "sleigh"
         },
-        [
-          {
-            "source": "dog",
-            "target": "seal"
-          }
-        ]
+        {
+          "source": "dog",
+          "target": "seal"
+        }
       ]
     },
     "armadillo": {
