@@ -10,7 +10,7 @@ interface DatabaseSchema {
 
 export interface DatabaseItem {
   readonly myths: boolean;
-  readonly makes: Record<string, string>;
+  readonly makes: { source: string; target: string }[];
   readonly combinations: string[][];
 }
 
@@ -20,7 +20,7 @@ type GetItems = () => DatabaseItems;
 export const getItems: GetItems = () => db.get('items').value();
 
 type GetItemByName = (name: string) => DatabaseItem | undefined;
-export const getItemByName: GetItemByName = name => db.get('items').value()[name];
+export const getItemByName: GetItemByName = name => getItems()[name];
 
 type GetItemNames = () => string[];
 export const getItemNames: GetItemNames = () => db.get('items').keys().value();

@@ -7,9 +7,12 @@ import { findAll, findById, search } from './item';
 describe('item', () => {
   const item: DatabaseItem = {
     combinations: [['item1', 'item2']],
-    makes: {
-      item1: 'item2',
-    },
+    makes: [
+      {
+        source: 'item1',
+        target: 'item2',
+      },
+    ],
     myths: false,
   };
 

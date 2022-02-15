@@ -14,16 +14,13 @@ export interface ItemCombination {
   readonly target: string;
 }
 
-const fromMakes = (makes: DatabaseItem['makes']): ItemCombination[] =>
-  Object.keys(makes).map(source => ({ source, target: makes[source] }));
-
 const fromCombinations = (combinations: DatabaseItem['combinations']): ItemCombination[] =>
   combinations.map(combo => ({ source: combo[0], target: combo[1] }));
 
 const fromItemWithName = (name: string, item: DatabaseItem): Item => ({
   name,
   myths: item.myths,
-  creates: fromMakes(item.makes),
+  creates: item.makes,
   combinations: fromCombinations(item.combinations),
 });
 
