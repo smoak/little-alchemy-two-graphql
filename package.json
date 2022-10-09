@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": "github:smoak/little-alchemy-two-graphql",
   "engines": {
-    "node": ">= 12 < 13"
+    "node": ">= 16 < 17"
   },
   "scripts": {
     "build": "tsc --build tsconfig.json",
@@ -57,7 +57,7 @@
     "lowdb": "^1.0.0"
   },
   "volta": {
-    "node": "12.22.12",
+    "node": "16.17.1",
     "npm": "8.15.1"
   }
 }
