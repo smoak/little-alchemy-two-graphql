@@ -7,6 +7,7 @@ export interface Item {
   readonly myths: boolean;
   readonly creates: ItemCombination[];
   readonly combinations: ItemCombination[];
+  readonly imageUrl: string;
 }
 
 export interface ItemCombination {
@@ -19,6 +20,7 @@ const fromCombinations = (combinations: DatabaseItem['combinations']): ItemCombi
 
 const fromItemWithName = (name: string, item: DatabaseItem): Item => ({
   name,
+  imageUrl: item.image_url,
   myths: item.myths,
   creates: item.makes,
   combinations: fromCombinations(item.combinations),

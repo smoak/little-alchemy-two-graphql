@@ -7,7 +7,9 @@ import { Item, search } from '../../data/repos/item';
 import { SearchResultsResolverItemsResults, itemSearchResultsResolver, searchResultsResolver } from './search';
 
 describe('search', () => {
-  const items: Item[] = [{ name: 'test', myths: false, creates: [], combinations: [] }];
+  const items: Item[] = [
+    { name: 'test', myths: false, creates: [], combinations: [], imageUrl: 'https://picsum.photos/48' },
+  ];
 
   describe('.searchResultsResolver', () => {
     let result: ReturnType<typeof searchResultsResolver>;

@@ -12,6 +12,7 @@ export interface DatabaseItem {
   readonly myths: boolean;
   readonly makes: { source: string; target: string }[];
   readonly combinations: string[][];
+  readonly image_url: string;
 }
 
 type DatabaseItems = Record<string, DatabaseItem>;

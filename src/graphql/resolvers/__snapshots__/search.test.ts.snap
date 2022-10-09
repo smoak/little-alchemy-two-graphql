@@ -8,6 +8,7 @@ Object {
       "node": Object {
         "combinations": Array [],
         "creates": Array [],
+        "imageUrl": "https://picsum.photos/48",
         "myths": false,
         "name": "test",
       },
@@ -34,6 +35,7 @@ Object {
     Object {
       "combinations": Array [],
       "creates": Array [],
+      "imageUrl": "https://picsum.photos/48",
       "myths": false,
       "name": "test",
     },

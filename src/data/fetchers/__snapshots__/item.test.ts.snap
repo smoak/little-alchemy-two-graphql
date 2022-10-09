@@ -848,6 +848,7 @@ Object {
         "warrior",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_84.svg",
     "makes": Array [],
     "myths": true,
   },
@@ -882,6 +883,7 @@ Object {
         "smoke",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/152.svg",
     "makes": Array [
       Object {
         "source": "planet",
@@ -897,6 +899,7 @@ Object {
         "zeus",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_1.svg",
     "makes": Array [],
     "myths": true,
   },
@@ -911,6 +914,7 @@ Object {
         "wind",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_2.svg",
     "makes": Array [],
     "myths": true,
   },
@@ -921,6 +925,7 @@ Object {
         "mist",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/4.svg",
     "makes": Array [
       Object {
         "source": "air",
@@ -1252,6 +1257,7 @@ Object {
         "vulture",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/153.svg",
     "makes": Array [
       Object {
         "source": "alien",
@@ -1387,6 +1393,7 @@ Object {
         "watch",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/404.svg",
     "makes": Array [
       Object {
         "source": "bird",
@@ -1418,6 +1425,7 @@ Object {
         "philosophy",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/716.svg",
     "makes": Array [
       Object {
         "source": "alchemist",
@@ -1461,6 +1469,7 @@ Object {
         "wheat",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/203.svg",
     "makes": Array [
       Object {
         "source": "container",
@@ -1528,6 +1537,7 @@ Object {
         "water",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/154.svg",
     "makes": Array [
       Object {
         "source": "boulder",
@@ -1607,6 +1617,7 @@ Object {
         "venus",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/341.svg",
     "makes": Array [
       Object {
         "source": "airplane",
@@ -1646,6 +1657,7 @@ Object {
         "pollen",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/155.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -1664,6 +1676,7 @@ Object {
         "swamp",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/156.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -1682,6 +1695,7 @@ Object {
         "sheep",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/509.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -1696,6 +1710,7 @@ Object {
         "hospital",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/334.svg",
     "makes": Array [
       Object {
         "source": "barn",
@@ -1735,6 +1750,7 @@ Object {
         "light",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/158.svg",
     "makes": Array [
       Object {
         "source": "deity",
@@ -1770,6 +1786,7 @@ Object {
         "sailor",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/495.svg",
     "makes": Array [
       Object {
         "source": "angler",
@@ -1813,6 +1830,7 @@ Object {
         "mountain",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/140.svg",
     "makes": Array [
       Object {
         "source": "air",
@@ -2156,6 +2174,7 @@ Object {
         "tool",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_3.svg",
     "makes": Array [],
     "myths": true,
   },
@@ -2170,6 +2189,7 @@ Object {
         "spider",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/518.svg",
     "makes": Array [
       Object {
         "source": "ant",
@@ -2241,6 +2261,7 @@ Object {
         "jar",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/754.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -2263,6 +2284,7 @@ Object {
         "snow",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/159.svg",
     "makes": Array [
       Object {
         "source": "animal",
@@ -2338,6 +2360,7 @@ Object {
         "soil",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/711.svg",
     "makes": Array [
       Object {
         "source": "farm",
@@ -2361,6 +2384,7 @@ Object {
         "fruit",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_4.svg",
     "makes": Array [],
     "myths": true,
   },
@@ -2375,6 +2399,7 @@ Object {
         "fabric",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/740.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -2405,6 +2430,7 @@ Object {
         "swimming-pool",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/34.svg",
     "makes": Array [
       Object {
         "source": "big",
@@ -2436,6 +2462,7 @@ Object {
         "science",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/744.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -2453,6 +2480,7 @@ Object {
         "island",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/160.svg",
     "makes": Array [
       Object {
         "source": "deity",
@@ -2472,6 +2500,7 @@ Object {
         "sea",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/639.svg",
     "makes": Array [
       Object {
         "source": "animal",
@@ -2531,6 +2560,7 @@ Object {
         "dog",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/381.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -2545,6 +2575,7 @@ Object {
         "steel",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/161.svg",
     "makes": Array [
       Object {
         "source": "animal",
@@ -2604,6 +2635,7 @@ Object {
         "wood",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/666.svg",
     "makes": Array [
       Object {
         "source": "human",
@@ -2659,6 +2691,7 @@ Object {
         "vampire",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/29.svg",
     "makes": Array [
       Object {
         "source": "metal",
@@ -2726,6 +2759,7 @@ Object {
         "venus",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/162.svg",
     "makes": Array [
       Object {
         "source": "astronaut",
@@ -2753,6 +2787,7 @@ Object {
         "telescope",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/881.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -2767,6 +2802,7 @@ Object {
         "sky",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/163.svg",
     "makes": Array [
       Object {
         "source": "air",
@@ -2893,6 +2929,7 @@ Object {
         "explosion",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/164.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -2927,6 +2964,7 @@ Object {
         "sky",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/566.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -2981,6 +3019,7 @@ Object {
         "wave",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/347.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -2991,6 +3030,7 @@ Object {
         "birdcage",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/894.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -3013,6 +3053,7 @@ Object {
         "wood",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/57.svg",
     "makes": Array [
       Object {
         "source": "animal",
@@ -3112,6 +3153,7 @@ Object {
         "immortality",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_107.svg",
     "makes": Array [
       Object {
         "source": "book",
@@ -3131,6 +3173,7 @@ Object {
         "witch",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_5.svg",
     "makes": Array [],
     "myths": true,
   },
@@ -3153,6 +3196,7 @@ Object {
         "paul-bunyan",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_85.svg",
     "makes": Array [],
     "myths": true,
   },
@@ -3175,6 +3219,7 @@ Object {
         "pig",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/220.svg",
     "makes": Array [
       Object {
         "source": "bread",
@@ -3198,6 +3243,7 @@ Object {
         "small",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/166.svg",
     "makes": Array [
       Object {
         "source": "bread",
@@ -3313,6 +3359,7 @@ Object {
         "toast",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/232.svg",
     "makes": Array [
       Object {
         "source": "baker",
@@ -3420,6 +3467,7 @@ Object {
         "village",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/527.svg",
     "makes": Array [
       Object {
         "source": "container",
@@ -3455,6 +3503,7 @@ Object {
         "monkey",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/394.svg",
     "makes": Array [
       Object {
         "source": "bread",
@@ -3478,6 +3527,7 @@ Object {
         "dough",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/555.svg",
     "makes": Array [
       Object {
         "source": "human",
@@ -3501,6 +3551,7 @@ Object {
         "sword",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/506.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -3551,6 +3602,7 @@ Object {
         "skyscraper",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/434.svg",
     "makes": Array [
       Object {
         "source": "container",
@@ -3590,6 +3642,7 @@ Object {
         "sound",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_86.svg",
     "makes": Array [],
     "myths": true,
   },
@@ -3656,6 +3709,7 @@ Object {
         "sheep",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/167.svg",
     "makes": Array [
       Object {
         "source": "airplane",
@@ -3791,6 +3845,7 @@ Object {
         "wood",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/887.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -3817,6 +3872,7 @@ Object {
         "sky",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/264.svg",
     "makes": Array [
       Object {
         "source": "container",
@@ -3860,6 +3916,7 @@ Object {
         "milk",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/479.svg",
     "makes": Array [
       Object {
         "source": "human",
@@ -3891,6 +3948,7 @@ Object {
         "ore",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/686.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -3909,6 +3967,7 @@ Object {
         "sword",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/168.svg",
     "makes": Array [
       Object {
         "source": "sailor",
@@ -3940,6 +3999,7 @@ Object {
         "steel",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/493.svg",
     "makes": Array [
       Object {
         "source": "chicken",
@@ -3979,6 +4039,7 @@ Object {
         "wave",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/107.svg",
     "makes": Array [
       Object {
         "source": "animal",
@@ -4066,6 +4127,7 @@ Object {
         "wood",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/169.svg",
     "makes": Array [
       Object {
         "source": "bird",
@@ -4117,6 +4179,7 @@ Object {
         "garden",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/461.svg",
     "makes": Array [
       Object {
         "source": "bee",
@@ -4212,6 +4275,7 @@ Object {
         "wood",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/463.svg",
     "makes": Array [
       Object {
         "source": "bee",
@@ -4267,6 +4331,7 @@ Object {
         "human",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/753.svg",
     "makes": Array [
       Object {
         "source": "beehive",
@@ -4282,6 +4347,7 @@ Object {
         "wheat",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/254.svg",
     "makes": Array [
       Object {
         "source": "container",
@@ -4329,6 +4395,7 @@ Object {
         "wood",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/678.svg",
     "makes": Array [
       Object {
         "source": "clock",
@@ -4355,6 +4422,7 @@ Object {
         "wheel",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/83.svg",
     "makes": Array [
       Object {
         "source": "bicycle",
@@ -4418,6 +4486,7 @@ Object {
         "universe",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/607.svg",
     "makes": Array [
       Object {
         "source": "aquarium",
@@ -4615,6 +4684,7 @@ Object {
         "telescope",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/880.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -4653,6 +4723,7 @@ Object {
         "time",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/46.svg",
     "makes": Array [
       Object {
         "source": "alarm-clock",
@@ -4996,6 +5067,7 @@ Object {
         "wall",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/690.svg",
     "makes": Array [
       Object {
         "source": "big",
@@ -5019,6 +5091,7 @@ Object {
         "egg",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/170.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -5041,6 +5114,7 @@ Object {
         "sun",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/291.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -5063,6 +5137,7 @@ Object {
         "stone",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/55.svg",
     "makes": Array [
       Object {
         "source": "airplane",
@@ -5258,6 +5333,7 @@ Object {
         "windmill",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/488.svg",
     "makes": Array [
       Object {
         "source": "fruit",
@@ -5300,6 +5376,7 @@ Object {
         "snow",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/171.svg",
     "makes": Array [
       Object {
         "source": "crystal-ball",
@@ -5327,6 +5404,7 @@ Object {
         "warrior",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/112.svg",
     "makes": Array [
       Object {
         "source": "bottle",
@@ -5394,6 +5472,7 @@ Object {
         "sack",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/697.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -5420,6 +5499,7 @@ Object {
         "wood",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/100.svg",
     "makes": Array [
       Object {
         "source": "atmosphere",
@@ -5499,6 +5579,7 @@ Object {
         "tool",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/38.svg",
     "makes": Array [
       Object {
         "source": "carbon-dioxide",
@@ -5542,6 +5623,7 @@ Object {
         "wolf",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/270.svg",
     "makes": Array [
       Object {
         "source": "bone",
@@ -5613,6 +5695,7 @@ Object {
         "wire",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/567.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -5646,6 +5729,7 @@ Object {
         "newspaper",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/342.svg",
     "makes": Array [
       Object {
         "source": "baast",
@@ -5721,6 +5805,7 @@ Object {
         "tawaret",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_6.svg",
     "makes": Array [],
     "myths": true,
   },
@@ -5775,6 +5860,7 @@ Object {
         "wine",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/693.svg",
     "makes": Array [
       Object {
         "source": "blood",
@@ -5857,6 +5943,7 @@ Object {
         "rock",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/620.svg",
     "makes": Array [
       Object {
         "source": "algae",
@@ -5924,6 +6011,7 @@ Object {
         "wood",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/665.svg",
     "makes": Array [
       Object {
         "source": "bullet",
@@ -5991,6 +6079,7 @@ Object {
         "pizza",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/703.svg",
     "makes": Array [
       Object {
         "source": "chain",
@@ -6054,6 +6143,7 @@ Object {
         "fire",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/87.svg",
     "makes": Array [
       Object {
         "source": "bacon",
@@ -6137,6 +6227,7 @@ Object {
         "sun",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/172.svg",
     "makes": Array [
       Object {
         "source": "brick",
@@ -6184,6 +6275,7 @@ Object {
         "wood",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/365.svg",
     "makes": Array [
       Object {
         "source": "giant",
@@ -6203,6 +6295,7 @@ Object {
         "wood",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/366.svg",
     "makes": Array [
       Object {
         "source": "cauldron",
@@ -6282,6 +6375,7 @@ Object {
         "yogurt",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/702.svg",
     "makes": Array [
       Object {
         "source": "jam",
@@ -6313,6 +6407,7 @@ Object {
         "tool",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/39.svg",
     "makes": Array [
       Object {
         "source": "armor",
@@ -6356,6 +6451,7 @@ Object {
         "gun",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/489.svg",
     "makes": Array [
       Object {
         "source": "glasses",
@@ -6371,6 +6467,7 @@ Object {
         "swamp",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_87.svg",
     "makes": Array [],
     "myths": true,
   },
@@ -6392,6 +6489,7 @@ Object {
         "car",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/508.svg",
     "makes": Array [
       Object {
         "source": "barn",
@@ -6427,6 +6525,7 @@ Object {
         "meat",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/174.svg",
     "makes": Array [
       Object {
         "source": "animal",
@@ -6498,6 +6597,7 @@ Object {
         "tool",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/354.svg",
     "makes": Array [
       Object {
         "source": "metal",
@@ -6533,6 +6633,7 @@ Object {
         "rainbow",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/462.svg",
     "makes": Array [
       Object {
         "source": "bird",
@@ -6584,6 +6685,7 @@ Object {
         "net",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/722.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -6614,6 +6716,7 @@ Object {
         "wire",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/741.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -6636,6 +6739,7 @@ Object {
         "tree",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/102.svg",
     "makes": Array [
       Object {
         "source": "sand",
@@ -6695,6 +6799,7 @@ Object {
         "wolf",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/699.svg",
     "makes": Array [
       Object {
         "source": "animal",
@@ -6722,6 +6827,7 @@ Object {
         "dough",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/492.svg",
     "makes": Array [
       Object {
         "source": "city",
@@ -6761,6 +6867,7 @@ Object {
         "wild-boar",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_88.svg",
     "makes": Array [],
     "myths": true,
   },
@@ -6771,6 +6878,7 @@ Object {
         "deity",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_89.svg",
     "makes": Array [],
     "myths": true,
   },
@@ -6829,6 +6937,7 @@ Object {
         "sand",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/246.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -6839,6 +6948,7 @@ Object {
         "wood",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/63.svg",
     "makes": Array [
       Object {
         "source": "brick",
@@ -6950,6 +7060,7 @@ Object {
         "wax",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/466.svg",
     "makes": Array [
       Object {
         "source": "butterfly",
@@ -6993,6 +7104,7 @@ Object {
         "sugar",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/374.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -7015,6 +7127,7 @@ Object {
         "pirate-ship",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/487.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -7025,6 +7138,7 @@ Object {
         "paint",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/755.svg",
     "makes": Array [
       Object {
         "source": "human",
@@ -7078,6 +7192,7 @@ Object {
         "motorcycle",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/175.svg",
     "makes": Array [
       Object {
         "source": "armor",
@@ -7241,6 +7356,7 @@ Object {
         "sugar",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/728.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -7275,6 +7391,7 @@ Object {
         "tree",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/363.svg",
     "makes": Array [
       Object {
         "source": "algae",
@@ -7358,6 +7475,7 @@ Object {
         "vegetable",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/562.svg",
     "makes": Array [
       Object {
         "source": "animal",
@@ -7381,6 +7499,7 @@ Object {
         "wood",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/205.svg",
     "makes": Array [
       Object {
         "source": "antarctica",
@@ -7452,6 +7571,7 @@ Object {
         "wool",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/597.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -7506,6 +7626,7 @@ Object {
         "warrior",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/282.svg",
     "makes": Array [
       Object {
         "source": "beach",
@@ -7569,6 +7690,7 @@ Object {
         "night",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/238.svg",
     "makes": Array [
       Object {
         "source": "animal",
@@ -7632,6 +7754,7 @@ Object {
         "plant",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/401.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -7662,6 +7785,7 @@ Object {
         "witch",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/594.svg",
     "makes": Array [
       Object {
         "source": "broom",
@@ -7713,6 +7837,7 @@ Object {
         "wolf",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/700.svg",
     "makes": Array [
       Object {
         "source": "giant",
@@ -7748,6 +7873,7 @@ Object {
         "salt",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/66.svg",
     "makes": Array [
       Object {
         "source": "seaweed",
@@ -7767,6 +7893,7 @@ Object {
         "story",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/283.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -7785,6 +7912,7 @@ Object {
         "wheat",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/290.svg",
     "makes": Array [
       Object {
         "source": "container",
@@ -7812,6 +7940,7 @@ Object {
         "wire",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/590.svg",
     "makes": Array [
       Object {
         "source": "boiler",
@@ -7859,6 +7988,7 @@ Object {
         "machine",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/120.svg",
     "makes": Array [
       Object {
         "source": "forest",
@@ -7902,6 +8032,7 @@ Object {
         "turtle",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/418.svg",
     "makes": Array [
       Object {
         "source": "chameleon",
@@ -7921,6 +8052,7 @@ Object {
         "moon",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com",
     "makes": Array [],
     "myths": true,
   },
@@ -7935,6 +8067,7 @@ Object {
         "human",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_90.svg",
     "makes": Array [],
     "myths": true,
   },
@@ -7957,6 +8090,7 @@ Object {
         "wood",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/176.svg",
     "makes": Array [
       Object {
         "source": "energy",
@@ -7996,6 +8130,7 @@ Object {
         "tool",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/78.svg",
     "makes": Array [
       Object {
         "source": "animal",
@@ -8083,6 +8218,7 @@ Object {
         "sandwich",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/484.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -8129,6 +8265,7 @@ Object {
         "livestock",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/74.svg",
     "makes": Array [
       Object {
         "source": "animal",
@@ -8240,6 +8377,7 @@ Object {
         "wall",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/671.svg",
     "makes": Array [
       Object {
         "source": "animal",
@@ -8275,6 +8413,7 @@ Object {
         "water",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/545.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -8289,6 +8428,7 @@ Object {
         "chicken",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/541.svg",
     "makes": Array [
       Object {
         "source": "box",
@@ -8324,6 +8464,7 @@ Object {
         "ice",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/631.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -8338,6 +8479,7 @@ Object {
         "mountain-goat",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_8.svg",
     "makes": Array [],
     "myths": true,
   },
@@ -8372,6 +8514,7 @@ Object {
         "stone",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/376.svg",
     "makes": Array [
       Object {
         "source": "house",
@@ -8415,6 +8558,7 @@ Object {
         "snake",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_91.svg",
     "makes": Array [],
     "myths": true,
   },
@@ -8437,6 +8581,7 @@ Object {
         "sugar",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/322.svg",
     "makes": Array [
       Object {
         "source": "coconut-milk",
@@ -8468,6 +8613,7 @@ Object {
         "milk",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/327.svg",
     "makes": Array [
       Object {
         "source": "container",
@@ -8503,6 +8649,7 @@ Object {
         "wool",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/375.svg",
     "makes": Array [
       Object {
         "source": "animal",
@@ -8570,6 +8717,7 @@ Object {
         "tree",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/116.svg",
     "makes": Array [
       Object {
         "source": "animal",
@@ -8629,6 +8777,7 @@ Object {
         "tobacco",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/221.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -8643,6 +8792,7 @@ Object {
         "tent",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/889.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -8683,6 +8833,7 @@ Object {
         "village",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/331.svg",
     "makes": Array [
       Object {
         "source": "air",
@@ -8822,6 +8973,7 @@ Object {
         "stone",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/50.svg",
     "makes": Array [
       Object {
         "source": "fire",
@@ -8913,6 +9065,7 @@ Object {
         "wheel",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/117.svg",
     "makes": Array [
       Object {
         "source": "bell",
@@ -8984,6 +9137,7 @@ Object {
         "vacuum-cleaner",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/707.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -9006,6 +9160,7 @@ Object {
         "water",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/15.svg",
     "makes": Array [
       Object {
         "source": "air",
@@ -9133,6 +9288,7 @@ Object {
         "time",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/30.svg",
     "makes": Array [
       Object {
         "source": "fire",
@@ -9172,6 +9328,7 @@ Object {
         "monster",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_82.svg",
     "makes": Array [],
     "myths": true,
   },
@@ -9202,6 +9359,7 @@ Object {
         "vegetable",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/261.svg",
     "makes": Array [
       Object {
         "source": "axe",
@@ -9257,6 +9415,7 @@ Object {
         "tool",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/262.svg",
     "makes": Array [
       Object {
         "source": "animal",
@@ -9300,6 +9459,7 @@ Object {
         "wood",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/97.svg",
     "makes": Array [
       Object {
         "source": "container",
@@ -9355,6 +9515,7 @@ Object {
         "thermometer",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/143.svg",
     "makes": Array [
       Object {
         "source": "air",
@@ -9490,6 +9651,7 @@ Object {
         "wheel",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/688.svg",
     "makes": Array [
       Object {
         "source": "bicycle",
@@ -9529,6 +9691,7 @@ Object {
         "wire",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/230.svg",
     "makes": Array [
       Object {
         "source": "animal",
@@ -9600,6 +9763,7 @@ Object {
         "mouse",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/441.svg",
     "makes": Array [
       Object {
         "source": "human",
@@ -9623,6 +9787,7 @@ Object {
         "scissors",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/451.svg",
     "makes": Array [
       Object {
         "source": "philosophy",
@@ -9641,6 +9806,7 @@ Object {
         "star",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/440.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -9671,6 +9837,7 @@ Object {
         "safe",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/683.svg",
     "makes": Array [
       Object {
         "source": "air",
@@ -10312,6 +10479,7 @@ Object {
         "mountain-range",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/624.svg",
     "makes": Array [
       Object {
         "source": "continent",
@@ -10371,6 +10539,7 @@ Object {
         "vegetable",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/657.svg",
     "makes": Array [
       Object {
         "source": "blade",
@@ -10425,6 +10594,7 @@ Object {
         "recipe",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/736.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -10451,6 +10621,7 @@ Object {
         "heat",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/267.svg",
     "makes": Array [
       Object {
         "source": "container",
@@ -10502,6 +10673,7 @@ Object {
         "dough",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/734.svg",
     "makes": Array [
       Object {
         "source": "cookie-dough",
@@ -10529,6 +10701,7 @@ Object {
         "sugar",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/328.svg",
     "makes": Array [
       Object {
         "source": "baker",
@@ -10620,6 +10793,7 @@ Object {
         "tree",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/667.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -10654,6 +10828,7 @@ Object {
         "time",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/95.svg",
     "makes": Array [
       Object {
         "source": "bacteria",
@@ -10797,6 +10972,7 @@ Object {
         "egg",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_9.svg",
     "makes": Array [],
     "myths": true,
   },
@@ -10823,6 +10999,7 @@ Object {
         "wool",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/431.svg",
     "makes": Array [
       Object {
         "source": "cotton",
@@ -10862,6 +11039,7 @@ Object {
         "thread",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/714.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -10884,6 +11062,7 @@ Object {
         "livestock",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/76.svg",
     "makes": Array [
       Object {
         "source": "axe",
@@ -11055,6 +11234,7 @@ Object {
         "wax",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/579.svg",
     "makes": Array [
       Object {
         "source": "container",
@@ -11098,6 +11278,7 @@ Object {
         "scarecrow",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/485.svg",
     "makes": Array [
       Object {
         "source": "crow",
@@ -11145,6 +11326,7 @@ Object {
         "wizard",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/459.svg",
     "makes": Array [
       Object {
         "source": "blizzard",
@@ -11240,6 +11422,7 @@ Object {
         "universe",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_10.svg",
     "makes": Array [
       Object {
         "source": "book",
@@ -11279,6 +11462,7 @@ Object {
         "owl",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/179.svg",
     "makes": Array [
       Object {
         "source": "container",
@@ -11314,6 +11498,7 @@ Object {
         "tea",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/712.svg",
     "makes": Array [
       Object {
         "source": "good",
@@ -11349,6 +11534,7 @@ Object {
         "love",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_11.svg",
     "makes": Array [],
     "myths": true,
   },
@@ -11387,6 +11573,7 @@ Object {
         "sea",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/638.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -11397,6 +11584,7 @@ Object {
         "magic",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_12.svg",
     "makes": Array [
       Object {
         "source": "corpse",
@@ -11420,6 +11608,7 @@ Object {
         "wood",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/720.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -11474,6 +11663,7 @@ Object {
         "sailor",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/338.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -11488,6 +11678,7 @@ Object {
         "wheel",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/105.svg",
     "makes": Array [
       Object {
         "source": "cyclist",
@@ -11514,6 +11705,7 @@ Object {
         "giant",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_83.svg",
     "makes": Array [],
     "myths": true,
   },
@@ -11556,6 +11748,7 @@ Object {
         "water",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/344.svg",
     "makes": Array [
       Object {
         "source": "animal",
@@ -11575,6 +11768,7 @@ Object {
         "twilight",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/674.svg",
     "makes": Array [
       Object {
         "source": "demon",
@@ -11606,6 +11800,7 @@ Object {
         "time",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/668.svg",
     "makes": Array [
       Object {
         "source": "clock",
@@ -11665,6 +11860,7 @@ Object {
         "time",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/126.svg",
     "makes": Array [
       Object {
         "source": "deity",
@@ -11732,6 +11928,7 @@ Object {
         "skeleton",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/645.svg",
     "makes": Array [
       Object {
         "source": "bacteria",
@@ -11787,6 +11984,7 @@ Object {
         "philosophers-stone",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_13.svg",
     "makes": Array [
       Object {
         "source": "air",
@@ -12074,6 +12272,7 @@ Object {
         "human",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_14.svg",
     "makes": Array [
       Object {
         "source": "animal",
@@ -12176,6 +12375,7 @@ Object {
         "sand",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/101.svg",
     "makes": Array [
       Object {
         "source": "animal",
@@ -12395,6 +12595,7 @@ Object {
         "water",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/399.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -12405,6 +12606,7 @@ Object {
         "pressure",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/31.svg",
     "makes": Array [
       Object {
         "source": "gold",
@@ -12440,6 +12642,7 @@ Object {
         "time",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/180.svg",
     "makes": Array [
       Object {
         "source": "air",
@@ -12555,6 +12758,7 @@ Object {
         "wine",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_110.svg",
     "makes": Array [
       Object {
         "source": "house",
@@ -12590,6 +12794,7 @@ Object {
         "swimmer",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/685.svg",
     "makes": Array [
       Object {
         "source": "diver",
@@ -12657,6 +12862,7 @@ Object {
         "sandstorm",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_15.svg",
     "makes": Array [
       Object {
         "source": "container",
@@ -12680,6 +12886,7 @@ Object {
         "stethoscope",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/207.svg",
     "makes": Array [
       Object {
         "source": "blade",
@@ -12771,6 +12978,7 @@ Object {
         "wolf",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/181.svg",
     "makes": Array [
       Object {
         "source": "animal",
@@ -12886,6 +13094,7 @@ Object {
         "internet",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/531.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -12916,6 +13125,7 @@ Object {
         "wall",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/286.svg",
     "makes": Array [
       Object {
         "source": "hellhound",
@@ -12943,6 +13153,7 @@ Object {
         "science",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/647.svg",
     "makes": Array [
       Object {
         "source": "animal",
@@ -13022,6 +13233,7 @@ Object {
         "monster",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_16.svg",
     "makes": Array [],
     "myths": true,
   },
@@ -13044,6 +13256,7 @@ Object {
         "windmill",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/587.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -13066,6 +13279,7 @@ Object {
         "wheel",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/447.svg",
     "makes": Array [
       Object {
         "source": "candle",
@@ -13100,6 +13314,7 @@ Object {
         "rainbow",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com",
     "makes": Array [
       Object {
         "source": "animal",
@@ -13199,6 +13414,7 @@ Object {
         "water",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/86.svg",
     "makes": Array [
       Object {
         "source": "banana",
@@ -13310,6 +13526,7 @@ Object {
         "story",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/104.svg",
     "makes": Array [
       Object {
         "source": "dragon",
@@ -13357,6 +13574,7 @@ Object {
         "seaplane",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/556.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -13375,6 +13593,7 @@ Object {
         "wood",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/478.svg",
     "makes": Array [
       Object {
         "source": "doctor",
@@ -13406,6 +13625,7 @@ Object {
         "wine",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/251.svg",
     "makes": Array [
       Object {
         "source": "deity",
@@ -13429,6 +13649,7 @@ Object {
         "ice",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/397.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -13447,6 +13668,7 @@ Object {
         "tree",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_17.svg",
     "makes": Array [],
     "myths": true,
   },
@@ -13509,6 +13731,7 @@ Object {
         "water",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/182.svg",
     "makes": Array [
       Object {
         "source": "beaver",
@@ -13556,6 +13779,7 @@ Object {
         "egg",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/549.svg",
     "makes": Array [
       Object {
         "source": "big",
@@ -13591,6 +13815,7 @@ Object {
         "wind",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/183.svg",
     "makes": Array [
       Object {
         "source": "animal",
@@ -13658,6 +13883,7 @@ Object {
         "tool",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_92.svg",
     "makes": Array [
       Object {
         "source": "knight",
@@ -13685,6 +13911,7 @@ Object {
         "soil",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/14.svg",
     "makes": Array [
       Object {
         "source": "energy",
@@ -13724,6 +13951,7 @@ Object {
         "wire",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/288.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -13738,6 +13966,7 @@ Object {
         "mountain",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/332.svg",
     "makes": Array [
       Object {
         "source": "corpse",
@@ -13784,6 +14013,7 @@ Object {
   },
   "earth": Object {
     "combinations": Array [],
+    "image_url": "https://hints.littlealchemy2.com/icons/3.svg",
     "makes": Array [
       Object {
         "source": "air",
@@ -14019,6 +14249,7 @@ Object {
         "motion",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/19.svg",
     "makes": Array [
       Object {
         "source": "earth",
@@ -14062,6 +14293,7 @@ Object {
         "sun",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/129.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -14174,6 +14406,7 @@ Object {
         "woodpecker",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/49.svg",
     "makes": Array [
       Object {
         "source": "air",
@@ -14341,6 +14574,7 @@ Object {
         "watch",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/353.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -14371,6 +14605,7 @@ Object {
         "wind-turbine",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/425.svg",
     "makes": Array [
       Object {
         "source": "barn",
@@ -14402,6 +14637,7 @@ Object {
         "fish",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/123.svg",
     "makes": Array [
       Object {
         "source": "land",
@@ -14421,6 +14657,7 @@ Object {
         "wire",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/121.svg",
     "makes": Array [
       Object {
         "source": "electrician",
@@ -14480,6 +14717,7 @@ Object {
         "wind",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/114.svg",
     "makes": Array [
       Object {
         "source": "air",
@@ -14683,6 +14921,7 @@ Object {
         "faerie",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_80.svg",
     "makes": Array [
       Object {
         "source": "domestication",
@@ -14718,6 +14957,7 @@ Object {
         "liquid",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_18.svg",
     "makes": Array [
       Object {
         "source": "human",
@@ -14749,6 +14989,7 @@ Object {
         "letter",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/314.svg",
     "makes": Array [
       Object {
         "source": "container",
@@ -14775,6 +15016,7 @@ Object {
         "fire",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/11.svg",
     "makes": Array [
       Object {
         "source": "air",
@@ -14894,6 +15136,7 @@ Object {
         "steam-engine",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/184.svg",
     "makes": Array [
       Object {
         "source": "engineer",
@@ -14949,6 +15192,7 @@ Object {
         "horse",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_19.svg",
     "makes": Array [],
     "myths": true,
   },
@@ -14967,6 +15211,7 @@ Object {
         "volcano",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/21.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -14977,6 +15222,7 @@ Object {
         "pandoras-box",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_20.svg",
     "makes": Array [
       Object {
         "source": "angel",
@@ -15088,6 +15334,7 @@ Object {
         "sword",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/435.svg",
     "makes": Array [
       Object {
         "source": "human",
@@ -15107,6 +15354,7 @@ Object {
         "shovel",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/882.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -15153,6 +15401,7 @@ Object {
         "volcano",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/26.svg",
     "makes": Array [
       Object {
         "source": "atmosphere",
@@ -15256,6 +15505,7 @@ Object {
         "wheel",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/433.svg",
     "makes": Array [
       Object {
         "source": "airplane",
@@ -15387,6 +15637,7 @@ Object {
         "tool",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/893.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -15397,6 +15648,7 @@ Object {
         "good",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_21.svg",
     "makes": Array [
       Object {
         "source": "big",
@@ -15444,6 +15696,7 @@ Object {
         "unicorn",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/558.svg",
     "makes": Array [
       Object {
         "source": "big",
@@ -15486,6 +15739,7 @@ Object {
         "human",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/186.svg",
     "makes": Array [
       Object {
         "source": "container",
@@ -15521,6 +15775,7 @@ Object {
         "village",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/524.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -15547,6 +15802,7 @@ Object {
         "tractor",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/496.svg",
     "makes": Array [
       Object {
         "source": "ant",
@@ -15634,6 +15890,7 @@ Object {
         "plow",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/71.svg",
     "makes": Array [
       Object {
         "source": "animal",
@@ -15773,6 +16030,7 @@ Object {
         "grim-reaper",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_22.svg",
     "makes": Array [],
     "myths": true,
   },
@@ -15811,6 +16069,7 @@ Object {
         "wizard",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/350.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -15841,6 +16100,7 @@ Object {
         "wood",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/424.svg",
     "makes": Array [
       Object {
         "source": "garden",
@@ -15868,6 +16128,7 @@ Object {
         "wolf",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_23.svg",
     "makes": Array [],
     "myths": true,
   },
@@ -15910,6 +16171,7 @@ Object {
         "tool",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/70.svg",
     "makes": Array [
       Object {
         "source": "animal",
@@ -16049,6 +16311,7 @@ Object {
         "fire",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/2.svg",
     "makes": Array [
       Object {
         "source": "air",
@@ -16324,6 +16587,7 @@ Object {
         "steel",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/568.svg",
     "makes": Array [
       Object {
         "source": "car",
@@ -16355,6 +16619,7 @@ Object {
         "human",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/106.svg",
     "makes": Array [
       Object {
         "source": "car",
@@ -16418,6 +16683,7 @@ Object {
         "wood",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/132.svg",
     "makes": Array [
       Object {
         "source": "brick",
@@ -16481,6 +16747,7 @@ Object {
         "house",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/696.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -16511,6 +16778,7 @@ Object {
         "wagon",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/421.svg",
     "makes": Array [
       Object {
         "source": "house",
@@ -16530,6 +16798,7 @@ Object {
         "wall",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/879.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -16544,6 +16813,7 @@ Object {
         "sky",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/189.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -16582,6 +16852,7 @@ Object {
         "water",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/68.svg",
     "makes": Array [
       Object {
         "source": "air",
@@ -16761,6 +17032,7 @@ Object {
         "wood",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/448.svg",
     "makes": Array [
       Object {
         "source": "human",
@@ -16796,6 +17068,7 @@ Object {
         "volcano",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/515.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -16818,6 +17091,7 @@ Object {
         "tool",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/398.svg",
     "makes": Array [
       Object {
         "source": "butterfly",
@@ -16872,6 +17146,7 @@ Object {
         "rain",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/190.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -16897,6 +17172,7 @@ Object {
         "wheat",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/85.svg",
     "makes": Array [
       Object {
         "source": "coconut-milk",
@@ -16976,6 +17252,7 @@ Object {
         "rainbow",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/416.svg",
     "makes": Array [
       Object {
         "source": "alcohol",
@@ -17111,6 +17388,7 @@ Object {
         "wood",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/138.svg",
     "makes": Array [
       Object {
         "source": "flute",
@@ -17142,6 +17420,7 @@ Object {
         "sky",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/390.svg",
     "makes": Array [
       Object {
         "source": "axe",
@@ -17213,6 +17492,7 @@ Object {
         "squirrel",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/423.svg",
     "makes": Array [
       Object {
         "source": "jackalope",
@@ -17252,6 +17532,7 @@ Object {
         "mountain",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/191.svg",
     "makes": Array [
       Object {
         "source": "city",
@@ -17295,6 +17576,7 @@ Object {
         "warrior",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/241.svg",
     "makes": Array [
       Object {
         "source": "sword",
@@ -17321,6 +17603,7 @@ Object {
         "tree",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/58.svg",
     "makes": Array [
       Object {
         "source": "axe",
@@ -17408,6 +17691,7 @@ Object {
         "small",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/884.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -17426,6 +17710,7 @@ Object {
         "paper",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/540.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -17492,6 +17777,7 @@ Object {
         "time",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/224.svg",
     "makes": Array [
       Object {
         "source": "human",
@@ -17539,6 +17825,7 @@ Object {
         "water",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/476.svg",
     "makes": Array [
       Object {
         "source": "immortality",
@@ -17554,6 +17841,7 @@ Object {
         "immortality",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_24.svg",
     "makes": Array [
       Object {
         "source": "human",
@@ -17589,6 +17877,7 @@ Object {
         "wolf",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/419.svg",
     "makes": Array [
       Object {
         "source": "container",
@@ -17644,6 +17933,7 @@ Object {
         "zombie",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com",
     "makes": Array [],
     "myths": false,
   },
@@ -17662,6 +17952,7 @@ Object {
         "vegetable",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/543.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -17704,6 +17995,7 @@ Object {
         "steel",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/368.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -17726,6 +18018,7 @@ Object {
         "puddle",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/504.svg",
     "makes": Array [
       Object {
         "source": "axe",
@@ -17761,6 +18054,7 @@ Object {
         "yogurt",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/715.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -17791,6 +18085,7 @@ Object {
         "water",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/88.svg",
     "makes": Array [
       Object {
         "source": "alcohol",
@@ -17950,6 +18245,7 @@ Object {
         "wood",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/187.svg",
     "makes": Array [
       Object {
         "source": "container",
@@ -18026,6 +18322,7 @@ Object {
         "star",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/305.svg",
     "makes": Array [
       Object {
         "source": "container",
@@ -18072,6 +18369,7 @@ Object {
         "galaxy",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/609.svg",
     "makes": Array [
       Object {
         "source": "container",
@@ -18267,6 +18565,7 @@ Object {
         "wall",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/704.svg",
     "makes": Array [
       Object {
         "source": "train",
@@ -18313,6 +18612,7 @@ Object {
         "flower",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/192.svg",
     "makes": Array [
       Object {
         "source": "animal",
@@ -18420,6 +18720,7 @@ Object {
         "human",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/529.svg",
     "makes": Array [
       Object {
         "source": "gardener",
@@ -18451,6 +18752,7 @@ Object {
         "stone",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_25.svg",
     "makes": Array [],
     "myths": true,
   },
@@ -18469,6 +18771,7 @@ Object {
         "roc",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_26.svg",
     "makes": Array [],
     "myths": true,
   },
@@ -18487,6 +18790,7 @@ Object {
         "liquid",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/602.svg",
     "makes": Array [
       Object {
         "source": "earth",
@@ -18522,6 +18826,7 @@ Object {
         "skeleton",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_27.svg",
     "makes": Array [],
     "myths": true,
   },
@@ -18544,6 +18849,7 @@ Object {
         "steam",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/17.svg",
     "makes": Array [
       Object {
         "source": "science",
@@ -18603,6 +18909,7 @@ Object {
         "story",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/456.svg",
     "makes": Array [
       Object {
         "source": "pumpkin",
@@ -18626,6 +18933,7 @@ Object {
         "monster",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_28.svg",
     "makes": Array [
       Object {
         "source": "arctic",
@@ -18773,6 +19081,7 @@ Object {
         "wrapping-paper",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/378.svg",
     "makes": Array [
       Object {
         "source": "deity",
@@ -18816,6 +19125,7 @@ Object {
         "house",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/536.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -18858,6 +19168,7 @@ Object {
         "story",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/535.svg",
     "makes": Array [
       Object {
         "source": "house",
@@ -18893,6 +19204,7 @@ Object {
         "snow",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/202.svg",
     "makes": Array [
       Object {
         "source": "car",
@@ -18960,6 +19272,7 @@ Object {
         "sand",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/32.svg",
     "makes": Array [
       Object {
         "source": "ant",
@@ -19197,6 +19510,7 @@ Object {
         "lens",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/185.svg",
     "makes": Array [
       Object {
         "source": "armor",
@@ -19308,6 +19622,7 @@ Object {
         "story",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/569.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -19338,6 +19653,7 @@ Object {
         "mountain",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/289.svg",
     "makes": Array [
       Object {
         "source": "container",
@@ -19417,6 +19733,7 @@ Object {
         "small",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_29.svg",
     "makes": Array [
       Object {
         "source": "airplane",
@@ -19504,6 +19821,7 @@ Object {
         "sun",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/351.svg",
     "makes": Array [
       Object {
         "source": "city",
@@ -19579,6 +19897,7 @@ Object {
         "story",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/51.svg",
     "makes": Array [
       Object {
         "source": "armor",
@@ -19605,6 +19924,7 @@ Object {
   },
   "good": Object {
     "combinations": Array [],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_30.svg",
     "makes": Array [
       Object {
         "source": "box",
@@ -19676,6 +19996,7 @@ Object {
         "stone",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/570.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -19690,6 +20011,7 @@ Object {
         "plant",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/75.svg",
     "makes": Array [
       Object {
         "source": "animal",
@@ -19965,6 +20287,7 @@ Object {
         "gravestone",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/98.svg",
     "makes": Array [
       Object {
         "source": "desert",
@@ -20044,6 +20367,7 @@ Object {
         "stone",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/136.svg",
     "makes": Array [
       Object {
         "source": "coffin",
@@ -20117,6 +20441,7 @@ Object {
         "gravestone",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/99.svg",
     "makes": Array [
       Object {
         "source": "desert",
@@ -20164,6 +20489,7 @@ Object {
         "plant",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_31.svg",
     "makes": Array [],
     "myths": true,
   },
@@ -20202,6 +20528,7 @@ Object {
         "tree",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/35.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -20240,6 +20567,7 @@ Object {
         "seaplane",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_32.svg",
     "makes": Array [],
     "myths": true,
   },
@@ -20258,6 +20586,7 @@ Object {
         "warrior",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/193.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -20268,6 +20597,7 @@ Object {
         "monster",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_33.svg",
     "makes": Array [
       Object {
         "source": "big",
@@ -20287,6 +20617,7 @@ Object {
         "toast",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/512.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -20317,6 +20648,7 @@ Object {
         "zombie",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/244.svg",
     "makes": Array [
       Object {
         "source": "good",
@@ -20360,6 +20692,7 @@ Object {
         "steel",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/94.svg",
     "makes": Array [
       Object {
         "source": "armor",
@@ -20471,6 +20804,7 @@ Object {
         "mineral",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/25.svg",
     "makes": Array [
       Object {
         "source": "bow",
@@ -20534,6 +20868,7 @@ Object {
         "wind",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/629.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -20556,6 +20891,7 @@ Object {
         "internet",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/204.svg",
     "makes": Array [
       Object {
         "source": "electricity",
@@ -20611,6 +20947,7 @@ Object {
         "wind",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/194.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -20625,6 +20962,7 @@ Object {
         "smoke",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/93.svg",
     "makes": Array [
       Object {
         "source": "bread",
@@ -20656,6 +20994,7 @@ Object {
         "meat",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/313.svg",
     "makes": Array [
       Object {
         "source": "cheese",
@@ -20687,6 +21026,7 @@ Object {
         "woodpecker",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/522.svg",
     "makes": Array [
       Object {
         "source": "boulder",
@@ -20762,6 +21102,7 @@ Object {
         "wheel",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/560.svg",
     "makes": Array [
       Object {
         "source": "container",
@@ -20861,6 +21202,7 @@ Object {
         "wall",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/701.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -20883,6 +21225,7 @@ Object {
         "wire",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/539.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -20928,6 +21271,7 @@ Object {
         "grass",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/195.svg",
     "makes": Array [
       Object {
         "source": "barn",
@@ -21018,6 +21362,7 @@ Object {
         "hay",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/538.svg",
     "makes": Array [
       Object {
         "source": "container",
@@ -21045,6 +21390,7 @@ Object {
         "philosophy",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/600.svg",
     "makes": Array [
       Object {
         "source": "air",
@@ -21180,6 +21526,7 @@ Object {
         "house",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_34.svg",
     "makes": Array [
       Object {
         "source": "evil",
@@ -21231,6 +21578,7 @@ Object {
         "wall",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/571.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -21249,6 +21597,7 @@ Object {
         "rat",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/727.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -21279,6 +21628,7 @@ Object {
         "windmill",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/411.svg",
     "makes": Array [
       Object {
         "source": "barn",
@@ -21346,6 +21696,7 @@ Object {
         "house",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_35.svg",
     "makes": Array [
       Object {
         "source": "animal",
@@ -21409,6 +21760,7 @@ Object {
         "wolf",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_36.svg",
     "makes": Array [
       Object {
         "source": "doghouse",
@@ -21440,6 +21792,7 @@ Object {
         "story",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/196.svg",
     "makes": Array [
       Object {
         "source": "human",
@@ -21486,6 +21839,7 @@ Object {
         "boulder",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/621.svg",
     "makes": Array [
       Object {
         "source": "ant",
@@ -21605,6 +21959,7 @@ Object {
         "water",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/468.svg",
     "makes": Array [
       Object {
         "source": "deity",
@@ -21628,6 +21983,7 @@ Object {
         "immortality",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_38.svg",
     "makes": Array [
       Object {
         "source": "knight",
@@ -21651,6 +22007,7 @@ Object {
         "water",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_39.svg",
     "makes": Array [
       Object {
         "source": "blade",
@@ -21693,6 +22050,7 @@ Object {
         "bee",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/464.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -21723,6 +22081,7 @@ Object {
         "sky",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/197.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -21761,6 +22120,7 @@ Object {
         "saddle",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/198.svg",
     "makes": Array [
       Object {
         "source": "bird",
@@ -21908,6 +22268,7 @@ Object {
         "steel",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/501.svg",
     "makes": Array [
       Object {
         "source": "animal",
@@ -21955,6 +22316,7 @@ Object {
         "wall",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/199.svg",
     "makes": Array [
       Object {
         "source": "blade",
@@ -21998,6 +22360,7 @@ Object {
         "heat",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/752.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -22024,6 +22387,7 @@ Object {
         "time",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/33.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -22049,6 +22413,7 @@ Object {
         "wall",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/72.svg",
     "makes": Array [
       Object {
         "source": "airplane",
@@ -22524,6 +22889,7 @@ Object {
         "tool",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/48.svg",
     "makes": Array [
       Object {
         "source": "airplane",
@@ -23339,6 +23705,7 @@ Object {
         "seagull",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/417.svg",
     "makes": Array [
       Object {
         "source": "alarm-clock",
@@ -23414,6 +23781,7 @@ Object {
         "tornado",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/640.svg",
     "makes": Array [
       Object {
         "source": "lake",
@@ -23461,6 +23829,7 @@ Object {
         "snow",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/583.svg",
     "makes": Array [
       Object {
         "source": "container",
@@ -23488,6 +23857,7 @@ Object {
         "snake",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_40.svg",
     "makes": Array [],
     "myths": true,
   },
@@ -23510,6 +23880,7 @@ Object {
         "water",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/148.svg",
     "makes": Array [
       Object {
         "source": "animal",
@@ -23677,6 +24048,7 @@ Object {
         "snow",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/200.svg",
     "makes": Array [
       Object {
         "source": "bacteria",
@@ -23728,6 +24100,7 @@ Object {
         "wagon",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/528.svg",
     "makes": Array [
       Object {
         "source": "barn",
@@ -23755,6 +24128,7 @@ Object {
         "statue",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/739.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -23785,6 +24159,7 @@ Object {
         "sea",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/268.svg",
     "makes": Array [
       Object {
         "source": "boat",
@@ -23812,6 +24187,7 @@ Object {
         "tea",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/546.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -23915,6 +24291,7 @@ Object {
         "warrior",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/304.svg",
     "makes": Array [
       Object {
         "source": "air",
@@ -23970,11 +24347,13 @@ Object {
         "snowman",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/213.svg",
     "makes": Array [],
     "myths": false,
   },
   "immortality": Object {
     "combinations": Array [],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_41.svg",
     "makes": Array [
       Object {
         "source": "alchemist",
@@ -24085,6 +24464,7 @@ Object {
         "computer",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/345.svg",
     "makes": Array [
       Object {
         "source": "dog",
@@ -24116,6 +24496,7 @@ Object {
         "volcano",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/18.svg",
     "makes": Array [
       Object {
         "source": "deity",
@@ -24159,6 +24540,7 @@ Object {
         "wall",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/559.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -24201,6 +24583,7 @@ Object {
         "vegetable",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/460.svg",
     "makes": Array [
       Object {
         "source": "plant",
@@ -24224,6 +24607,7 @@ Object {
         "rabbit",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_42.svg",
     "makes": Array [
       Object {
         "source": "flying-squirrel",
@@ -24259,6 +24643,7 @@ Object {
         "sugar",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/483.svg",
     "makes": Array [
       Object {
         "source": "bottle",
@@ -24302,6 +24687,7 @@ Object {
         "jam",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/708.svg",
     "makes": Array [
       Object {
         "source": "ant",
@@ -24333,6 +24719,7 @@ Object {
         "sun",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/557.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -24347,6 +24734,7 @@ Object {
         "evil",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_43.svg",
     "makes": Array [],
     "myths": true,
   },
@@ -24365,6 +24753,7 @@ Object {
         "snake",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com",
     "makes": Array [
       Object {
         "source": "rainbow",
@@ -24396,6 +24785,7 @@ Object {
         "snow",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com",
     "makes": Array [],
     "myths": true,
   },
@@ -24446,6 +24836,7 @@ Object {
         "water",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/256.svg",
     "makes": Array [
       Object {
         "source": "alcohol",
@@ -24529,6 +24920,7 @@ Object {
         "storm",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/651.svg",
     "makes": Array [
       Object {
         "source": "container",
@@ -24572,6 +24964,7 @@ Object {
         "story",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/500.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -24582,6 +24975,7 @@ Object {
         "tool",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com",
     "makes": Array [],
     "myths": true,
   },
@@ -24604,6 +24998,7 @@ Object {
         "turtle",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_47.svg",
     "makes": Array [],
     "myths": true,
   },
@@ -24630,6 +25025,7 @@ Object {
         "sword",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/679.svg",
     "makes": Array [
       Object {
         "source": "human",
@@ -24657,6 +25053,7 @@ Object {
         "seahorse",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_48.svg",
     "makes": Array [],
     "myths": true,
   },
@@ -24675,6 +25072,7 @@ Object {
         "wind",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/317.svg",
     "makes": Array [
       Object {
         "source": "big",
@@ -24690,6 +25088,7 @@ Object {
         "fox",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_49.svg",
     "makes": Array [],
     "myths": true,
   },
@@ -24704,6 +25103,7 @@ Object {
         "sword",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/719.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -24726,6 +25126,7 @@ Object {
         "warrior",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/178.svg",
     "makes": Array [
       Object {
         "source": "container",
@@ -24801,6 +25202,7 @@ Object {
         "shark",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_50.svg",
     "makes": Array [
       Object {
         "source": "boat",
@@ -24832,6 +25234,7 @@ Object {
         "santa",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_94.svg",
     "makes": Array [],
     "myths": true,
   },
@@ -24853,6 +25256,7 @@ Object {
         "pond",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/548.svg",
     "makes": Array [
       Object {
         "source": "airplane",
@@ -25060,6 +25464,7 @@ Object {
         "steel",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/306.svg",
     "makes": Array [
       Object {
         "source": "butterfly",
@@ -25121,6 +25526,7 @@ Object {
         "soil",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/622.svg",
     "makes": Array [
       Object {
         "source": "air",
@@ -25228,6 +25634,7 @@ Object {
         "small",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/890.svg",
     "makes": Array [
       Object {
         "source": "small",
@@ -25263,6 +25670,7 @@ Object {
         "wild-boar",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/592.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -25281,6 +25689,7 @@ Object {
         "liquid",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/6.svg",
     "makes": Array [
       Object {
         "source": "air",
@@ -25364,6 +25773,7 @@ Object {
         "volcano",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/312.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -25386,6 +25796,7 @@ Object {
         "lawn-mower",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/687.svg",
     "makes": Array [
       Object {
         "source": "flower",
@@ -25441,6 +25852,7 @@ Object {
         "windmill",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/429.svg",
     "makes": Array [
       Object {
         "source": "field",
@@ -25472,6 +25884,7 @@ Object {
         "wind",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/367.svg",
     "makes": Array [
       Object {
         "source": "bird",
@@ -25543,6 +25956,7 @@ Object {
         "tool",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/348.svg",
     "makes": Array [
       Object {
         "source": "horse",
@@ -25581,6 +25995,7 @@ Object {
         "story",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/649.svg",
     "makes": Array [
       Object {
         "source": "antarctica",
@@ -25724,6 +26139,7 @@ Object {
         "tool",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/750.svg",
     "makes": Array [
       Object {
         "source": "bacteria",
@@ -25751,6 +26167,7 @@ Object {
         "pencil",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/260.svg",
     "makes": Array [
       Object {
         "source": "bird",
@@ -25834,6 +26251,7 @@ Object {
         "library",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/706.svg",
     "makes": Array [
       Object {
         "source": "librarian",
@@ -25853,6 +26271,7 @@ Object {
         "house",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/705.svg",
     "makes": Array [
       Object {
         "source": "human",
@@ -25912,6 +26331,7 @@ Object {
         "volcano",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/44.svg",
     "makes": Array [
       Object {
         "source": "armor",
@@ -26087,6 +26507,7 @@ Object {
         "light-bulb",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/122.svg",
     "makes": Array [
       Object {
         "source": "beach",
@@ -26234,6 +26655,7 @@ Object {
         "light",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/115.svg",
     "makes": Array [
       Object {
         "source": "electricity",
@@ -26297,6 +26719,7 @@ Object {
         "sword",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/240.svg",
     "makes": Array [
       Object {
         "source": "human",
@@ -26348,6 +26771,7 @@ Object {
         "spotlight",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/301.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -26382,6 +26806,7 @@ Object {
         "storm",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/644.svg",
     "makes": Array [
       Object {
         "source": "corpse",
@@ -26453,6 +26878,7 @@ Object {
         "monarch",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/285.svg",
     "makes": Array [
       Object {
         "source": "container",
@@ -26512,6 +26938,7 @@ Object {
         "water",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/599.svg",
     "makes": Array [
       Object {
         "source": "chicken",
@@ -26587,6 +27014,7 @@ Object {
         "small",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/717.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -26609,6 +27037,7 @@ Object {
         "field",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/73.svg",
     "makes": Array [
       Object {
         "source": "axe",
@@ -26768,6 +27197,7 @@ Object {
         "swamp",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/69.svg",
     "makes": Array [
       Object {
         "source": "air",
@@ -26843,6 +27273,7 @@ Object {
         "wood",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/507.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -26852,6 +27283,7 @@ Object {
         "human",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/59.svg",
     "makes": Array [
       Object {
         "source": "container",
@@ -26907,6 +27339,7 @@ Object {
         "wood",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/60.svg",
     "makes": Array [
       Object {
         "source": "electricity",
@@ -26954,6 +27387,7 @@ Object {
         "lion",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_51.svg",
     "makes": Array [
       Object {
         "source": "book",
@@ -26973,6 +27407,7 @@ Object {
         "pasta",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/553.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -27006,6 +27441,7 @@ Object {
         "tool",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/656.svg",
     "makes": Array [
       Object {
         "source": "atmosphere",
@@ -27181,6 +27617,7 @@ Object {
         "rainbow",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/672.svg",
     "makes": Array [
       Object {
         "source": "broom",
@@ -27252,6 +27689,7 @@ Object {
         "lamp",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_52.svg",
     "makes": Array [
       Object {
         "source": "demon",
@@ -27275,6 +27713,7 @@ Object {
         "volcano",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/682.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -27293,6 +27732,7 @@ Object {
         "post-office",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/878.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -27331,6 +27771,7 @@ Object {
         "wood",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/710.svg",
     "makes": Array [
       Object {
         "source": "letter",
@@ -27354,6 +27795,7 @@ Object {
         "mailbox",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/505.svg",
     "makes": Array [
       Object {
         "source": "box",
@@ -27421,6 +27863,7 @@ Object {
         "sea",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/335.svg",
     "makes": Array [
       Object {
         "source": "tree",
@@ -27476,6 +27919,7 @@ Object {
         "village",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/428.svg",
     "makes": Array [
       Object {
         "source": "island",
@@ -27507,6 +27951,7 @@ Object {
         "sugar",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/729.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -27533,6 +27978,7 @@ Object {
         "night",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_99.svg",
     "makes": Array [
       Object {
         "source": "good",
@@ -27552,6 +27998,7 @@ Object {
         "rust",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/573.svg",
     "makes": Array [
       Object {
         "source": "container",
@@ -27579,6 +28026,7 @@ Object {
         "sugar",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/409.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -27597,6 +28045,7 @@ Object {
         "island",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_95.svg",
     "makes": Array [
       Object {
         "source": "fishing-rod",
@@ -27620,6 +28069,7 @@ Object {
         "tool",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com",
     "makes": Array [],
     "myths": true,
   },
@@ -27630,6 +28080,7 @@ Object {
         "oil",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/450.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -27800,6 +28251,7 @@ Object {
         "tool",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/90.svg",
     "makes": Array [
       Object {
         "source": "bbq",
@@ -27887,6 +28339,7 @@ Object {
         "story",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/422.svg",
     "makes": Array [
       Object {
         "source": "astronaut",
@@ -27962,6 +28415,7 @@ Object {
         "small",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/650.svg",
     "makes": Array [
       Object {
         "source": "container",
@@ -28005,6 +28459,7 @@ Object {
         "swimmer",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/339.svg",
     "makes": Array [
       Object {
         "source": "poseidon",
@@ -28036,6 +28491,7 @@ Object {
         "tool",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/36.svg",
     "makes": Array [
       Object {
         "source": "air",
@@ -28379,6 +28835,7 @@ Object {
         "sky",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/309.svg",
     "makes": Array [
       Object {
         "source": "ocean",
@@ -28430,6 +28887,7 @@ Object {
         "sun",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/308.svg",
     "makes": Array [
       Object {
         "source": "air",
@@ -28477,6 +28935,7 @@ Object {
         "tool",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/572.svg",
     "makes": Array [
       Object {
         "source": "human",
@@ -28520,6 +28979,7 @@ Object {
         "water",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/77.svg",
     "makes": Array [
       Object {
         "source": "animal",
@@ -28615,6 +29075,7 @@ Object {
         "yogurt",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/427.svg",
     "makes": Array [
       Object {
         "source": "bottle",
@@ -28642,6 +29103,7 @@ Object {
         "treasure",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_53.svg",
     "makes": Array [],
     "myths": true,
   },
@@ -28672,6 +29134,7 @@ Object {
         "stone",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/625.svg",
     "makes": Array [
       Object {
         "source": "charcoal",
@@ -28735,6 +29198,7 @@ Object {
         "werewolf",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/472.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -28753,6 +29217,7 @@ Object {
         "wood",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/307.svg",
     "makes": Array [
       Object {
         "source": "medusa",
@@ -28776,6 +29241,7 @@ Object {
         "water",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/632.svg",
     "makes": Array [
       Object {
         "source": "atmosphere",
@@ -28807,6 +29273,7 @@ Object {
         "tool",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com",
     "makes": Array [],
     "myths": true,
   },
@@ -28837,6 +29304,7 @@ Object {
         "vegetable",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/526.svg",
     "makes": Array [
       Object {
         "source": "doctor",
@@ -28868,6 +29336,7 @@ Object {
         "human",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/364.svg",
     "makes": Array [
       Object {
         "source": "cat",
@@ -28919,6 +29388,7 @@ Object {
         "paper",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/389.svg",
     "makes": Array [
       Object {
         "source": "city",
@@ -28958,6 +29428,7 @@ Object {
         "tree",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/303.svg",
     "makes": Array [
       Object {
         "source": "deity",
@@ -28988,6 +29459,7 @@ Object {
   },
   "monster": Object {
     "combinations": Array [],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_55.svg",
     "makes": Array [
       Object {
         "source": "airplane",
@@ -29331,6 +29803,7 @@ Object {
         "time",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/79.svg",
     "makes": Array [
       Object {
         "source": "animal",
@@ -29406,6 +29879,7 @@ Object {
         "moon",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/748.svg",
     "makes": Array [
       Object {
         "source": "human",
@@ -29453,6 +29927,7 @@ Object {
         "stone",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/352.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -29483,6 +29958,7 @@ Object {
         "night",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/593.svg",
     "makes": Array [
       Object {
         "source": "monster",
@@ -29502,6 +29978,7 @@ Object {
         "moth",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_97.svg",
     "makes": Array [],
     "myths": true,
   },
@@ -29544,6 +30021,7 @@ Object {
         "wind",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/612.svg",
     "makes": Array [
       Object {
         "source": "air",
@@ -29659,6 +30137,7 @@ Object {
         "steel",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/346.svg",
     "makes": Array [
       Object {
         "source": "barn",
@@ -29746,6 +30225,7 @@ Object {
         "zeus",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_81.svg",
     "makes": Array [
       Object {
         "source": "deity",
@@ -29780,6 +30260,7 @@ Object {
         "hill",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/201.svg",
     "makes": Array [
       Object {
         "source": "bird",
@@ -29979,6 +30460,7 @@ Object {
         "mountain",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/561.svg",
     "makes": Array [
       Object {
         "source": "domestication",
@@ -30041,6 +30523,7 @@ Object {
         "mountain",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/523.svg",
     "makes": Array [
       Object {
         "source": "bird",
@@ -30180,6 +30663,7 @@ Object {
         "wall",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/231.svg",
     "makes": Array [
       Object {
         "source": "air",
@@ -30279,6 +30763,7 @@ Object {
         "wood",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/430.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -30293,6 +30778,7 @@ Object {
         "water",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/12.svg",
     "makes": Array [
       Object {
         "source": "animal",
@@ -30364,6 +30850,7 @@ Object {
         "pyramid",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/388.svg",
     "makes": Array [
       Object {
         "source": "container",
@@ -30395,6 +30882,7 @@ Object {
         "sheet-music",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/252.svg",
     "makes": Array [
       Object {
         "source": "angel",
@@ -30446,6 +30934,7 @@ Object {
         "sheet-music",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/673.svg",
     "makes": Array [
       Object {
         "source": "angel",
@@ -30501,6 +30990,7 @@ Object {
         "water",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/384.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -30523,6 +31013,7 @@ Object {
         "wizard",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_98.svg",
     "makes": Array [
       Object {
         "source": "book",
@@ -30546,6 +31037,7 @@ Object {
         "story",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_56.svg",
     "makes": Array [],
     "myths": true,
   },
@@ -30564,6 +31056,7 @@ Object {
         "tool",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/477.svg",
     "makes": Array [
       Object {
         "source": "animal",
@@ -30623,6 +31116,7 @@ Object {
         "story",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/554.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -30661,6 +31155,7 @@ Object {
         "tree",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/284.svg",
     "makes": Array [
       Object {
         "source": "container",
@@ -30692,6 +31187,7 @@ Object {
         "swordfish",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/663.svg",
     "makes": Array [
       Object {
         "source": "animal",
@@ -30749,6 +31245,7 @@ Object {
         "paper",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/209.svg",
     "makes": Array [
       Object {
         "source": "baker",
@@ -30808,6 +31305,7 @@ Object {
         "twilight",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/127.svg",
     "makes": Array [
       Object {
         "source": "animal",
@@ -30931,6 +31429,7 @@ Object {
         "shuriken",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/444.svg",
     "makes": Array [
       Object {
         "source": "blade",
@@ -30962,6 +31461,7 @@ Object {
         "turtle",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/534.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -30980,6 +31480,7 @@ Object {
         "tree",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/664.svg",
     "makes": Array [
       Object {
         "source": "animal",
@@ -31043,6 +31544,7 @@ Object {
         "water",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/215.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -31061,6 +31563,7 @@ Object {
         "water",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/387.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -31082,6 +31585,7 @@ Object {
         "sea",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/10.svg",
     "makes": Array [
       Object {
         "source": "airplane",
@@ -31357,6 +31861,7 @@ Object {
         "windmill",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/125.svg",
     "makes": Array [
       Object {
         "source": "ash",
@@ -31416,6 +31921,7 @@ Object {
         "tool",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/65.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -31426,6 +31932,7 @@ Object {
         "monster",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_58.svg",
     "makes": Array [
       Object {
         "source": "desert",
@@ -31477,6 +31984,7 @@ Object {
         "mud",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_100.svg",
     "makes": Array [],
     "myths": true,
   },
@@ -31495,6 +32003,7 @@ Object {
         "wire",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/551.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -31517,6 +32026,7 @@ Object {
         "monster",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_59.svg",
     "makes": Array [
       Object {
         "source": "evil",
@@ -31555,6 +32065,7 @@ Object {
         "fruit-tree",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/188.svg",
     "makes": Array [
       Object {
         "source": "deity",
@@ -31602,6 +32113,7 @@ Object {
         "stone",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/646.svg",
     "makes": Array [
       Object {
         "source": "electricity",
@@ -31641,6 +32153,7 @@ Object {
         "science",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/626.svg",
     "makes": Array [
       Object {
         "source": "boulder",
@@ -31748,6 +32261,7 @@ Object {
         "vulture",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/318.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -31766,6 +32280,7 @@ Object {
         "sand",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/426.svg",
     "makes": Array [
       Object {
         "source": "ostrich",
@@ -31789,6 +32304,7 @@ Object {
         "small",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_60.svg",
     "makes": Array [
       Object {
         "source": "big",
@@ -31820,6 +32336,7 @@ Object {
         "wizard",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/173.svg",
     "makes": Array [
       Object {
         "source": "alarm-clock",
@@ -31931,6 +32448,7 @@ Object {
         "tree",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/355.svg",
     "makes": Array [
       Object {
         "source": "animal",
@@ -31997,6 +32515,7 @@ Object {
         "oxygen",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/517.svg",
     "makes": Array [
       Object {
         "source": "philosophy",
@@ -32048,6 +32567,7 @@ Object {
         "water",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/519.svg",
     "makes": Array [
       Object {
         "source": "bottle",
@@ -32099,6 +32619,7 @@ Object {
         "painting",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/756.svg",
     "makes": Array [
       Object {
         "source": "canvas",
@@ -32118,6 +32639,7 @@ Object {
         "painter",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/733.svg",
     "makes": Array [
       Object {
         "source": "human",
@@ -32161,6 +32683,7 @@ Object {
         "warrior",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_93.svg",
     "makes": Array [
       Object {
         "source": "blade",
@@ -32196,6 +32719,7 @@ Object {
         "science",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/743.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -32214,6 +32738,7 @@ Object {
         "tree",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/109.svg",
     "makes": Array [
       Object {
         "source": "bird",
@@ -32260,6 +32785,7 @@ Object {
         "flute",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/718.svg",
     "makes": Array [
       Object {
         "source": "human",
@@ -32295,6 +32821,7 @@ Object {
         "gift",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com",
     "makes": Array [
       Object {
         "source": "human",
@@ -32322,6 +32849,7 @@ Object {
         "wood",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/208.svg",
     "makes": Array [
       Object {
         "source": "air",
@@ -32585,6 +33113,7 @@ Object {
         "paper",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/393.svg",
     "makes": Array [
       Object {
         "source": "robot",
@@ -32600,6 +33129,7 @@ Object {
         "paper",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/726.svg",
     "makes": Array [
       Object {
         "source": "thread",
@@ -32639,6 +33169,7 @@ Object {
         "umbrella",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/582.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -32649,6 +33180,7 @@ Object {
         "kite",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/888.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -32687,6 +33219,7 @@ Object {
         "village",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/681.svg",
     "makes": Array [
       Object {
         "source": "car",
@@ -32726,6 +33259,7 @@ Object {
         "pirate",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/396.svg",
     "makes": Array [
       Object {
         "source": "parrot",
@@ -32741,6 +33275,7 @@ Object {
         "flour",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/442.svg",
     "makes": Array [
       Object {
         "source": "cheese",
@@ -32772,6 +33307,7 @@ Object {
         "lumberjack",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_62.svg",
     "makes": Array [
       Object {
         "source": "cow",
@@ -32795,6 +33331,7 @@ Object {
         "immortality",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_63.svg",
     "makes": Array [
       Object {
         "source": "dragon",
@@ -32830,6 +33367,7 @@ Object {
         "rainbow",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/414.svg",
     "makes": Array [
       Object {
         "source": "peacock",
@@ -32849,6 +33387,7 @@ Object {
         "pressure",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/757.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -32871,6 +33410,7 @@ Object {
         "time",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/713.svg",
     "makes": Array [
       Object {
         "source": "earth",
@@ -32910,6 +33450,7 @@ Object {
         "stone",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/618.svg",
     "makes": Array [
       Object {
         "source": "air",
@@ -32957,6 +33498,7 @@ Object {
         "unicorn",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/226.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -32971,6 +33513,7 @@ Object {
         "wood",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/233.svg",
     "makes": Array [
       Object {
         "source": "blade",
@@ -33042,6 +33585,7 @@ Object {
         "sword",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/585.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -33068,6 +33612,7 @@ Object {
         "snow",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/150.svg",
     "makes": Array [
       Object {
         "source": "corpse",
@@ -33107,6 +33652,7 @@ Object {
         "science",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/563.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -33149,6 +33695,7 @@ Object {
         "water",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/596.svg",
     "makes": Array [
       Object {
         "source": "container",
@@ -33176,6 +33723,7 @@ Object {
         "water",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/689.svg",
     "makes": Array [
       Object {
         "source": "explosion",
@@ -33231,6 +33779,7 @@ Object {
         "stone",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com",
     "makes": Array [
       Object {
         "source": "bottle",
@@ -33258,6 +33807,7 @@ Object {
         "story",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/661.svg",
     "makes": Array [
       Object {
         "source": "ant",
@@ -33425,6 +33975,7 @@ Object {
         "life",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/47.svg",
     "makes": Array [
       Object {
         "source": "big",
@@ -33460,6 +34011,7 @@ Object {
         "sandwich",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/413.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -33486,6 +34038,7 @@ Object {
         "meat",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/89.svg",
     "makes": Array [
       Object {
         "source": "human",
@@ -33509,6 +34062,7 @@ Object {
         "mud",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/165.svg",
     "makes": Array [
       Object {
         "source": "animal",
@@ -33608,6 +34162,7 @@ Object {
         "village",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/382.svg",
     "makes": Array [
       Object {
         "source": "beach",
@@ -33711,6 +34266,7 @@ Object {
         "pottery",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/407.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -33725,6 +34281,7 @@ Object {
         "seaplane",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/222.svg",
     "makes": Array [
       Object {
         "source": "container",
@@ -33776,6 +34333,7 @@ Object {
         "wood",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/470.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -33790,6 +34348,7 @@ Object {
         "wood",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/81.svg",
     "makes": Array [
       Object {
         "source": "gunpowder",
@@ -33813,6 +34372,7 @@ Object {
         "wolf",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/385.svg",
     "makes": Array [
       Object {
         "source": "net",
@@ -33860,6 +34420,7 @@ Object {
         "sword",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/311.svg",
     "makes": Array [
       Object {
         "source": "bird",
@@ -33923,6 +34484,7 @@ Object {
         "steam-engine",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/439.svg",
     "makes": Array [
       Object {
         "source": "animal",
@@ -33998,6 +34560,7 @@ Object {
         "tool",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/490.svg",
     "makes": Array [
       Object {
         "source": "barn",
@@ -34041,6 +34604,7 @@ Object {
         "wheel",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/237.svg",
     "makes": Array [
       Object {
         "source": "container",
@@ -34075,6 +34639,7 @@ Object {
         "continent",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/248.svg",
     "makes": Array [
       Object {
         "source": "acid-rain",
@@ -34206,6 +34771,7 @@ Object {
         "water",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/45.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -34252,6 +34818,7 @@ Object {
         "tree",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/24.svg",
     "makes": Array [
       Object {
         "source": "aquarium",
@@ -34510,6 +35077,7 @@ Object {
         "heat",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/633.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -34528,6 +35096,7 @@ Object {
         "seagull",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/310.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -34562,6 +35131,7 @@ Object {
         "wood",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/648.svg",
     "makes": Array [
       Object {
         "source": "earth",
@@ -34593,6 +35163,7 @@ Object {
         "ice",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/669.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -34615,6 +35186,7 @@ Object {
         "wind",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/642.svg",
     "makes": Array [
       Object {
         "source": "bee",
@@ -34649,6 +35221,7 @@ Object {
         "puddle",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/360.svg",
     "makes": Array [
       Object {
         "source": "algae",
@@ -34748,6 +35321,7 @@ Object {
         "wood",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/436.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -34766,6 +35340,7 @@ Object {
         "water",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_57.svg",
     "makes": Array [
       Object {
         "source": "giant",
@@ -34816,6 +35391,7 @@ Object {
         "letter",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/709.svg",
     "makes": Array [
       Object {
         "source": "bank",
@@ -34839,6 +35415,7 @@ Object {
         "vegetable",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/680.svg",
     "makes": Array [
       Object {
         "source": "fire",
@@ -34862,6 +35439,7 @@ Object {
         "pottery",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/658.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -34876,6 +35454,7 @@ Object {
         "wheel",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/52.svg",
     "makes": Array [
       Object {
         "source": "double-rainbow",
@@ -34944,6 +35523,7 @@ Object {
         "ocean",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/7.svg",
     "makes": Array [
       Object {
         "source": "air",
@@ -35091,6 +35671,7 @@ Object {
         "sea",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/643.svg",
     "makes": Array [
       Object {
         "source": "electricity",
@@ -35134,6 +35715,7 @@ Object {
         "paper",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/369.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -35156,6 +35738,7 @@ Object {
         "rainbow",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/315.svg",
     "makes": Array [
       Object {
         "source": "light",
@@ -35175,6 +35758,7 @@ Object {
         "giant",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_102.svg",
     "makes": Array [],
     "myths": true,
   },
@@ -35205,6 +35789,7 @@ Object {
         "vulture",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/513.svg",
     "makes": Array [
       Object {
         "source": "pterodactyl",
@@ -35227,6 +35812,7 @@ Object {
         "water",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/511.svg",
     "makes": Array [
       Object {
         "source": "animal",
@@ -35310,6 +35896,7 @@ Object {
         "vegetable",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/458.svg",
     "makes": Array [
       Object {
         "source": "candle",
@@ -35373,6 +35960,7 @@ Object {
         "stone",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/356.svg",
     "makes": Array [
       Object {
         "source": "corpse",
@@ -35404,6 +35992,7 @@ Object {
         "snake",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_65.svg",
     "makes": Array [],
     "myths": true,
   },
@@ -35414,6 +36003,7 @@ Object {
         "swamp",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/581.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -35424,6 +36014,7 @@ Object {
         "metal",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/731.svg",
     "makes": Array [
       Object {
         "source": "engineer",
@@ -35451,6 +36042,7 @@ Object {
         "sun",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_66.svg",
     "makes": Array [
       Object {
         "source": "book",
@@ -35473,6 +36065,7 @@ Object {
         "rabbit",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/738.svg",
     "makes": Array [
       Object {
         "source": "monster",
@@ -35500,6 +36093,7 @@ Object {
         "water",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/13.svg",
     "makes": Array [
       Object {
         "source": "air",
@@ -35651,6 +36245,7 @@ Object {
         "water",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/110.svg",
     "makes": Array [
       Object {
         "source": "animal",
@@ -35770,6 +36365,7 @@ Object {
         "rainbow",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_67.svg",
     "makes": Array [],
     "myths": true,
   },
@@ -35780,6 +36376,7 @@ Object {
         "rain",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/746.svg",
     "makes": Array [
       Object {
         "source": "deity",
@@ -35835,6 +36432,7 @@ Object {
         "village",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/481.svg",
     "makes": Array [
       Object {
         "source": "beach",
@@ -35918,6 +36516,7 @@ Object {
         "vegetable",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/542.svg",
     "makes": Array [
       Object {
         "source": "recipe",
@@ -35961,6 +36560,7 @@ Object {
         "swamp",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/670.svg",
     "makes": Array [
       Object {
         "source": "lake",
@@ -36000,6 +36600,7 @@ Object {
         "santa",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/372.svg",
     "makes": Array [
       Object {
         "source": "sugar",
@@ -36019,6 +36620,7 @@ Object {
         "house",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/885.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -36053,6 +36655,7 @@ Object {
         "steel",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/225.svg",
     "makes": Array [
       Object {
         "source": "magic",
@@ -36092,6 +36695,7 @@ Object {
         "water",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/266.svg",
     "makes": Array [
       Object {
         "source": "animal",
@@ -36223,6 +36827,7 @@ Object {
         "stream",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/611.svg",
     "makes": Array [
       Object {
         "source": "big",
@@ -36262,6 +36867,7 @@ Object {
         "steel",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/216.svg",
     "makes": Array [
       Object {
         "source": "airplane",
@@ -36365,6 +36971,7 @@ Object {
         "vacuum-cleaner",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/574.svg",
     "makes": Array [
       Object {
         "source": "container",
@@ -36380,6 +36987,7 @@ Object {
         "giant",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_68.svg",
     "makes": Array [
       Object {
         "source": "deity",
@@ -36402,6 +37010,7 @@ Object {
         "pebble",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/619.svg",
     "makes": Array [
       Object {
         "source": "air",
@@ -36605,6 +37214,7 @@ Object {
         "train",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/249.svg",
     "makes": Array [
       Object {
         "source": "alien",
@@ -36660,6 +37270,7 @@ Object {
         "water",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/64.svg",
     "makes": Array [
       Object {
         "source": "cook",
@@ -36691,6 +37302,7 @@ Object {
         "wagon",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/584.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -36720,6 +37332,7 @@ Object {
         "thread",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/510.svg",
     "makes": Array [
       Object {
         "source": "angler",
@@ -36827,6 +37440,7 @@ Object {
         "plant",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/415.svg",
     "makes": Array [
       Object {
         "source": "alcohol",
@@ -36886,6 +37500,7 @@ Object {
         "village",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/497.svg",
     "makes": Array [
       Object {
         "source": "human",
@@ -36905,6 +37520,7 @@ Object {
         "wood",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/544.svg",
     "makes": Array [
       Object {
         "source": "box",
@@ -36936,6 +37552,7 @@ Object {
         "steel",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/37.svg",
     "makes": Array [
       Object {
         "source": "planet",
@@ -36955,6 +37572,7 @@ Object {
         "house",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/525.svg",
     "makes": Array [
       Object {
         "source": "barn",
@@ -36990,6 +37608,7 @@ Object {
         "salt",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/695.svg",
     "makes": Array [
       Object {
         "source": "blood",
@@ -37025,6 +37644,7 @@ Object {
         "tool",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/445.svg",
     "makes": Array [
       Object {
         "source": "animal",
@@ -37068,6 +37688,7 @@ Object {
         "steel",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/588.svg",
     "makes": Array [
       Object {
         "source": "big",
@@ -37127,6 +37748,7 @@ Object {
         "tool",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/537.svg",
     "makes": Array [
       Object {
         "source": "bacteria",
@@ -37154,6 +37776,7 @@ Object {
         "wind",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/113.svg",
     "makes": Array [
       Object {
         "source": "animal",
@@ -37221,6 +37844,7 @@ Object {
         "steamboat",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/245.svg",
     "makes": Array [
       Object {
         "source": "bayonet",
@@ -37280,6 +37904,7 @@ Object {
         "volcano",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_69.svg",
     "makes": Array [],
     "myths": true,
   },
@@ -37310,6 +37935,7 @@ Object {
         "sun",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/210.svg",
     "makes": Array [
       Object {
         "source": "container",
@@ -37329,6 +37955,7 @@ Object {
         "katana",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/876.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -37363,6 +37990,7 @@ Object {
         "wind",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/28.svg",
     "makes": Array [
       Object {
         "source": "animal",
@@ -37566,6 +38194,7 @@ Object {
         "sand",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/357.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -37580,6 +38209,7 @@ Object {
         "sand",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_101.svg",
     "makes": Array [
       Object {
         "source": "evil",
@@ -37599,6 +38229,7 @@ Object {
         "sand",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/316.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -37617,6 +38248,7 @@ Object {
         "stone",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/395.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -37651,6 +38283,7 @@ Object {
         "tornado",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/214.svg",
     "makes": Array [
       Object {
         "source": "demon",
@@ -37698,6 +38331,7 @@ Object {
         "vegetable",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/91.svg",
     "makes": Array [
       Object {
         "source": "beach",
@@ -37757,6 +38391,7 @@ Object {
         "story",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/371.svg",
     "makes": Array [
       Object {
         "source": "animal",
@@ -37832,6 +38467,7 @@ Object {
         "tree",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/730.svg",
     "makes": Array [
       Object {
         "source": "heat",
@@ -37855,6 +38491,7 @@ Object {
         "ring",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/652.svg",
     "makes": Array [
       Object {
         "source": "big",
@@ -37906,6 +38543,7 @@ Object {
         "sword",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/402.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -37944,6 +38582,7 @@ Object {
         "sack",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/362.svg",
     "makes": Array [
       Object {
         "source": "bird",
@@ -37979,6 +38618,7 @@ Object {
         "universe",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/659.svg",
     "makes": Array [
       Object {
         "source": "air",
@@ -38116,6 +38756,7 @@ Object {
         "sword",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/258.svg",
     "makes": Array [
       Object {
         "source": "mountain-goat",
@@ -38159,6 +38800,7 @@ Object {
         "spider",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/370.svg",
     "makes": Array [
       Object {
         "source": "philosophy",
@@ -38186,6 +38828,7 @@ Object {
         "oxygen",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/684.svg",
     "makes": Array [
       Object {
         "source": "human",
@@ -38237,6 +38880,7 @@ Object {
         "wheat",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/135.svg",
     "makes": Array [
       Object {
         "source": "boat",
@@ -38311,6 +38955,7 @@ Object {
         "lake",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/9.svg",
     "makes": Array [
       Object {
         "source": "airplane",
@@ -38610,6 +39255,7 @@ Object {
         "sea",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/255.svg",
     "makes": Array [
       Object {
         "source": "beaver",
@@ -38677,6 +39323,7 @@ Object {
         "water",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/223.svg",
     "makes": Array [
       Object {
         "source": "monster",
@@ -38712,6 +39359,7 @@ Object {
         "water",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/410.svg",
     "makes": Array [
       Object {
         "source": "monster",
@@ -38739,6 +39387,7 @@ Object {
         "water",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/383.svg",
     "makes": Array [
       Object {
         "source": "barn",
@@ -38818,6 +39467,7 @@ Object {
         "steamboat",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/145.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -38844,6 +39494,7 @@ Object {
         "sea",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/103.svg",
     "makes": Array [
       Object {
         "source": "caviar",
@@ -38871,6 +39522,7 @@ Object {
         "pollen",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/641.svg",
     "makes": Array [
       Object {
         "source": "earth",
@@ -38910,6 +39562,7 @@ Object {
         "seal",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_108.svg",
     "makes": Array [],
     "myths": true,
   },
@@ -38940,6 +39593,7 @@ Object {
         "thread",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/586.svg",
     "makes": Array [
       Object {
         "source": "human",
@@ -38975,6 +39629,7 @@ Object {
         "wolf",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/227.svg",
     "makes": Array [
       Object {
         "source": "axe",
@@ -39038,6 +39693,7 @@ Object {
         "wool",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/340.svg",
     "makes": Array [
       Object {
         "source": "blade",
@@ -39097,6 +39753,7 @@ Object {
         "paper",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/446.svg",
     "makes": Array [
       Object {
         "source": "human",
@@ -39128,6 +39785,7 @@ Object {
         "steamboat",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_70.svg",
     "makes": Array [],
     "myths": true,
   },
@@ -39138,6 +39796,7 @@ Object {
         "tool",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/751.svg",
     "makes": Array [
       Object {
         "source": "big",
@@ -39177,6 +39836,7 @@ Object {
         "sword",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/443.svg",
     "makes": Array [
       Object {
         "source": "blade",
@@ -39212,6 +39872,7 @@ Object {
         "swamp",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/142.svg",
     "makes": Array [
       Object {
         "source": "boat",
@@ -39291,6 +39952,7 @@ Object {
         "wheat",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/694.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -39309,6 +39971,7 @@ Object {
         "wheel",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/403.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -39326,6 +39989,7 @@ Object {
         "bone",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/453.svg",
     "makes": Array [
       Object {
         "source": "earth",
@@ -39401,6 +40065,7 @@ Object {
         "sunglasses",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/336.svg",
     "makes": Array [
       Object {
         "source": "human",
@@ -39428,6 +40093,7 @@ Object {
         "ski-goggles",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/676.svg",
     "makes": Array [
       Object {
         "source": "glasses",
@@ -39467,6 +40133,7 @@ Object {
         "sun",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/22.svg",
     "makes": Array [
       Object {
         "source": "air",
@@ -39670,6 +40337,7 @@ Object {
         "village",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/287.svg",
     "makes": Array [
       Object {
         "source": "bank",
@@ -39757,6 +40425,7 @@ Object {
         "wagon",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/373.svg",
     "makes": Array [
       Object {
         "source": "barn",
@@ -39788,6 +40457,7 @@ Object {
         "tree",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/408.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -39842,6 +40512,7 @@ Object {
         "spider",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/616.svg",
     "makes": Array [
       Object {
         "source": "air",
@@ -39985,6 +40656,7 @@ Object {
         "tablet",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/892.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -40011,6 +40683,7 @@ Object {
         "smoke",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/253.svg",
     "makes": Array [
       Object {
         "source": "cloud",
@@ -40066,6 +40739,7 @@ Object {
         "wood",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/92.svg",
     "makes": Array [
       Object {
         "source": "brick",
@@ -40141,6 +40815,7 @@ Object {
         "smoke",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/591.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -40159,6 +40834,7 @@ Object {
         "ice",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/575.svg",
     "makes": Array [
       Object {
         "source": "bottle",
@@ -40186,6 +40862,7 @@ Object {
         "land",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/141.svg",
     "makes": Array [
       Object {
         "source": "deity",
@@ -40257,6 +40934,7 @@ Object {
         "rain",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/144.svg",
     "makes": Array [
       Object {
         "source": "big",
@@ -40472,6 +41150,7 @@ Object {
         "snowmobile",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/514.svg",
     "makes": Array [
       Object {
         "source": "magic",
@@ -40507,6 +41186,7 @@ Object {
         "stone",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/379.svg",
     "makes": Array [
       Object {
         "source": "carrot",
@@ -40558,6 +41238,7 @@ Object {
         "wood",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/380.svg",
     "makes": Array [
       Object {
         "source": "human",
@@ -40577,6 +41258,7 @@ Object {
         "snowboard",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/877.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -40606,6 +41288,7 @@ Object {
         "snowball",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/146.svg",
     "makes": Array [
       Object {
         "source": "crystal-ball",
@@ -40657,6 +41340,7 @@ Object {
         "snow",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/480.svg",
     "makes": Array [
       Object {
         "source": "barn",
@@ -40708,6 +41392,7 @@ Object {
         "wax",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/475.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -40726,6 +41411,7 @@ Object {
         "water",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/502.svg",
     "makes": Array [
       Object {
         "source": "container",
@@ -40753,6 +41439,7 @@ Object {
         "organic-matter",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/617.svg",
     "makes": Array [
       Object {
         "source": "air",
@@ -40824,6 +41511,7 @@ Object {
         "tool",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/128.svg",
     "makes": Array [
       Object {
         "source": "car",
@@ -40886,6 +41574,7 @@ Object {
         "planet",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/392.svg",
     "makes": Array [
       Object {
         "source": "boulder",
@@ -40961,6 +41650,7 @@ Object {
         "science",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/601.svg",
     "makes": Array [
       Object {
         "source": "earth",
@@ -41000,6 +41690,7 @@ Object {
         "wolf",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/239.svg",
     "makes": Array [
       Object {
         "source": "clock",
@@ -41071,6 +41762,7 @@ Object {
         "sun",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/228.svg",
     "makes": Array [
       Object {
         "source": "airplane",
@@ -41226,6 +41918,7 @@ Object {
         "wall",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/474.svg",
     "makes": Array [
       Object {
         "source": "alien",
@@ -41273,6 +41966,7 @@ Object {
         "steel",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/499.svg",
     "makes": Array [
       Object {
         "source": "alien",
@@ -41316,6 +42010,7 @@ Object {
         "wire",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/724.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -41338,6 +42033,7 @@ Object {
         "statue",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/482.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -41356,6 +42052,7 @@ Object {
         "web",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/454.svg",
     "makes": Array [
       Object {
         "source": "cotton",
@@ -41407,6 +42104,7 @@ Object {
         "small",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/883.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -41425,6 +42123,7 @@ Object {
         "steel",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/675.svg",
     "makes": Array [
       Object {
         "source": "beach",
@@ -41464,6 +42163,7 @@ Object {
         "sugar",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/589.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -41486,6 +42186,7 @@ Object {
         "tree",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/265.svg",
     "makes": Array [
       Object {
         "source": "air",
@@ -41557,6 +42258,7 @@ Object {
         "telescope",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/177.svg",
     "makes": Array [
       Object {
         "source": "blade",
@@ -41660,6 +42362,7 @@ Object {
         "star",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/234.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -41734,6 +42437,7 @@ Object {
         "surfer",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/320.svg",
     "makes": Array [
       Object {
         "source": "barn",
@@ -41821,6 +42525,7 @@ Object {
         "meat",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/498.svg",
     "makes": Array [
       Object {
         "source": "heat",
@@ -41852,6 +42557,7 @@ Object {
         "water",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/5.svg",
     "makes": Array [
       Object {
         "source": "air",
@@ -41927,6 +42633,7 @@ Object {
         "wheel",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/54.svg",
     "makes": Array [
       Object {
         "source": "bicycle",
@@ -42018,6 +42725,7 @@ Object {
         "steam-engine",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/62.svg",
     "makes": Array [
       Object {
         "source": "atmosphere",
@@ -42081,6 +42789,7 @@ Object {
         "mineral",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/40.svg",
     "makes": Array [
       Object {
         "source": "air",
@@ -42388,6 +43097,7 @@ Object {
         "wool",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/578.svg",
     "makes": Array [
       Object {
         "source": "box",
@@ -42423,6 +43133,7 @@ Object {
         "tool",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/552.svg",
     "makes": Array [
       Object {
         "source": "human",
@@ -42446,6 +43157,7 @@ Object {
         "solid",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/27.svg",
     "makes": Array [
       Object {
         "source": "air",
@@ -42696,6 +43408,7 @@ Object {
         "cloud",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/16.svg",
     "makes": Array [
       Object {
         "source": "campfire",
@@ -42799,6 +43512,7 @@ Object {
         "human",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/259.svg",
     "makes": Array [
       Object {
         "source": "antarctica",
@@ -42986,6 +43700,7 @@ Object {
         "small",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/610.svg",
     "makes": Array [
       Object {
         "source": "animal",
@@ -43073,6 +43788,7 @@ Object {
         "wire",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/725.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -43099,6 +43815,7 @@ Object {
         "wire",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/486.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -43145,6 +43862,7 @@ Object {
         "wine",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/263.svg",
     "makes": Array [
       Object {
         "source": "air",
@@ -43264,6 +43982,7 @@ Object {
         "sky",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/108.svg",
     "makes": Array [
       Object {
         "source": "algae",
@@ -43467,6 +44186,7 @@ Object {
         "peach-of-immortality",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_71.svg",
     "makes": Array [],
     "myths": true,
   },
@@ -43513,6 +44233,7 @@ Object {
         "wheel",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/133.svg",
     "makes": Array [
       Object {
         "source": "electricity",
@@ -43544,6 +44265,7 @@ Object {
         "sun",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/124.svg",
     "makes": Array [
       Object {
         "source": "alcohol",
@@ -43599,6 +44321,7 @@ Object {
         "sun",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/212.svg",
     "makes": Array [
       Object {
         "source": "cold",
@@ -43658,6 +44381,7 @@ Object {
         "sun",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/530.svg",
     "makes": Array [
       Object {
         "source": "container",
@@ -43681,6 +44405,7 @@ Object {
         "wave",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/302.svg",
     "makes": Array [
       Object {
         "source": "ice",
@@ -43724,6 +44449,7 @@ Object {
         "seaweed",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/217.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -43762,6 +44488,7 @@ Object {
         "reed",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/43.svg",
     "makes": Array [
       Object {
         "source": "animal",
@@ -43817,6 +44544,7 @@ Object {
         "wool",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/377.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -43863,6 +44591,7 @@ Object {
         "water",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/337.svg",
     "makes": Array [
       Object {
         "source": "human",
@@ -43890,6 +44619,7 @@ Object {
         "water",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/494.svg",
     "makes": Array [
       Object {
         "source": "fish",
@@ -43929,6 +44659,7 @@ Object {
         "swimmer",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/732.svg",
     "makes": Array [
       Object {
         "source": "human",
@@ -43956,6 +44687,7 @@ Object {
         "wood",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/149.svg",
     "makes": Array [
       Object {
         "source": "ambulance",
@@ -44155,6 +44887,7 @@ Object {
         "sword",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/250.svg",
     "makes": Array [
       Object {
         "source": "axe",
@@ -44206,6 +44939,7 @@ Object {
         "tool",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/747.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -44216,6 +44950,7 @@ Object {
         "small",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/891.svg",
     "makes": Array [
       Object {
         "source": "small",
@@ -44239,6 +44974,7 @@ Object {
         "thread",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/886.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -44261,6 +44997,7 @@ Object {
         "steel",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/391.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -44275,6 +45012,7 @@ Object {
         "immortality",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_72.svg",
     "makes": Array [
       Object {
         "source": "book",
@@ -44302,6 +45040,7 @@ Object {
         "water",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/412.svg",
     "makes": Array [
       Object {
         "source": "bottle",
@@ -44385,6 +45124,7 @@ Object {
         "venus",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/236.svg",
     "makes": Array [
       Object {
         "source": "human",
@@ -44416,6 +45156,7 @@ Object {
         "monster",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_73.svg",
     "makes": Array [],
     "myths": true,
   },
@@ -44438,6 +45179,7 @@ Object {
         "wood",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/595.svg",
     "makes": Array [
       Object {
         "source": "animal",
@@ -44461,6 +45203,7 @@ Object {
         "volcano",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/532.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -44479,6 +45222,7 @@ Object {
         "tool",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/721.svg",
     "makes": Array [
       Object {
         "source": "space",
@@ -44498,6 +45242,7 @@ Object {
         "storm",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_74.svg",
     "makes": Array [
       Object {
         "source": "hammer",
@@ -44532,6 +45277,7 @@ Object {
         "cotton",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/432.svg",
     "makes": Array [
       Object {
         "source": "animal",
@@ -44647,6 +45393,7 @@ Object {
         "time",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/131.svg",
     "makes": Array [
       Object {
         "source": "container",
@@ -44657,6 +45404,7 @@ Object {
   },
   "time": Object {
     "combinations": Array [],
+    "image_url": "https://hints.littlealchemy2.com/icons/41.svg",
     "makes": Array [
       Object {
         "source": "animal",
@@ -44908,6 +45656,7 @@ Object {
         "steamboat",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/386.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -44922,6 +45671,7 @@ Object {
         "sandwich",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/147.svg",
     "makes": Array [
       Object {
         "source": "cheese",
@@ -44949,6 +45699,7 @@ Object {
         "smoke",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/80.svg",
     "makes": Array [
       Object {
         "source": "paper",
@@ -45004,6 +45755,7 @@ Object {
         "wood",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/53.svg",
     "makes": Array [
       Object {
         "source": "animal",
@@ -45431,6 +46183,7 @@ Object {
         "tool",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/691.svg",
     "makes": Array [
       Object {
         "source": "container",
@@ -45464,6 +46217,7 @@ Object {
         "wind",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/23.svg",
     "makes": Array [
       Object {
         "source": "demon",
@@ -45527,6 +46281,7 @@ Object {
         "seagull",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/550.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -45557,6 +46312,7 @@ Object {
         "wagon",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/503.svg",
     "makes": Array [
       Object {
         "source": "barn",
@@ -45600,6 +46356,7 @@ Object {
         "wheel",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/61.svg",
     "makes": Array [
       Object {
         "source": "atmosphere",
@@ -45667,6 +46424,7 @@ Object {
         "wall",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/692.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -45689,6 +46447,7 @@ Object {
         "treasure-map",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/521.svg",
     "makes": Array [
       Object {
         "source": "map",
@@ -45720,6 +46479,7 @@ Object {
         "treasure",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/520.svg",
     "makes": Array [
       Object {
         "source": "island",
@@ -45759,6 +46519,7 @@ Object {
         "wood",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/42.svg",
     "makes": Array [
       Object {
         "source": "animal",
@@ -46002,6 +46763,7 @@ Object {
         "wood",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/218.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -46020,6 +46782,7 @@ Object {
         "wood",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/400.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -46058,6 +46821,7 @@ Object {
         "mountain",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_75.svg",
     "makes": Array [],
     "myths": true,
   },
@@ -46088,6 +46852,7 @@ Object {
         "sea",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/111.svg",
     "makes": Array [
       Object {
         "source": "city",
@@ -46139,6 +46904,7 @@ Object {
         "train",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/580.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -46157,6 +46923,7 @@ Object {
         "sand",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/67.svg",
     "makes": Array [
       Object {
         "source": "deity",
@@ -46208,6 +46975,7 @@ Object {
         "time",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/137.svg",
     "makes": Array [
       Object {
         "source": "bird",
@@ -46239,6 +47007,7 @@ Object {
         "monarch",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/547.svg",
     "makes": Array [
       Object {
         "source": "tyrannosaurus-rex",
@@ -46274,6 +47043,7 @@ Object {
         "spaceship",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/491.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -46296,6 +47066,7 @@ Object {
         "tool",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/359.svg",
     "makes": Array [
       Object {
         "source": "airplane",
@@ -46343,6 +47114,7 @@ Object {
         "story",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/219.svg",
     "makes": Array [
       Object {
         "source": "bird",
@@ -46405,6 +47177,7 @@ Object {
         "galaxy-cluster",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/608.svg",
     "makes": Array [
       Object {
         "source": "deity",
@@ -46440,6 +47213,7 @@ Object {
         "machine",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/564.svg",
     "makes": Array [
       Object {
         "source": "computer",
@@ -46471,6 +47245,7 @@ Object {
         "valkyrie",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_104.svg",
     "makes": Array [
       Object {
         "source": "warrior",
@@ -46490,6 +47265,7 @@ Object {
         "warrior",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_103.svg",
     "makes": Array [
       Object {
         "source": "heaven",
@@ -46517,6 +47293,7 @@ Object {
         "vampire",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/211.svg",
     "makes": Array [
       Object {
         "source": "container",
@@ -46580,6 +47357,7 @@ Object {
         "rose",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/473.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -46590,6 +47368,7 @@ Object {
         "safe",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/723.svg",
     "makes": Array [
       Object {
         "source": "house",
@@ -46621,6 +47400,7 @@ Object {
         "plant",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/457.svg",
     "makes": Array [
       Object {
         "source": "bacteria",
@@ -46736,6 +47516,7 @@ Object {
         "volcano",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/677.svg",
     "makes": Array [
       Object {
         "source": "container",
@@ -46777,6 +47558,7 @@ Object {
         "house",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/257.svg",
     "makes": Array [
       Object {
         "source": "atmosphere",
@@ -46880,6 +47662,7 @@ Object {
         "wire",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/745.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -46898,6 +47681,7 @@ Object {
         "wine",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/742.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -46908,6 +47692,7 @@ Object {
         "monster",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_109.svg",
     "makes": Array [],
     "myths": true,
   },
@@ -46946,6 +47731,7 @@ Object {
         "pressure",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/8.svg",
     "makes": Array [
       Object {
         "source": "deity",
@@ -47021,6 +47807,7 @@ Object {
         "volcano",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_37.svg",
     "makes": Array [
       Object {
         "source": "house",
@@ -47096,6 +47883,7 @@ Object {
         "pigeon",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/269.svg",
     "makes": Array [
       Object {
         "source": "corpse",
@@ -47159,6 +47947,7 @@ Object {
         "wall",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/206.svg",
     "makes": Array [
       Object {
         "source": "antarctica",
@@ -47243,6 +48032,7 @@ Object {
         "wood",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/247.svg",
     "makes": Array [
       Object {
         "source": "airplane",
@@ -47486,6 +48276,7 @@ Object {
         "wood",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/438.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -47500,6 +48291,7 @@ Object {
         "human",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/630.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -47514,6 +48306,7 @@ Object {
         "sword",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/157.svg",
     "makes": Array [
       Object {
         "source": "armor",
@@ -47597,6 +48390,7 @@ Object {
         "small",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/333.svg",
     "makes": Array [
       Object {
         "source": "bell",
@@ -47640,6 +48434,7 @@ Object {
         "snow",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1.svg",
     "makes": Array [
       Object {
         "source": "air",
@@ -47947,6 +48742,7 @@ Object {
         "water",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/405.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -47969,6 +48765,7 @@ Object {
         "stream",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/467.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -47979,6 +48776,7 @@ Object {
         "water",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/139.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -48009,6 +48807,7 @@ Object {
         "river",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/516.svg",
     "makes": Array [
       Object {
         "source": "deity",
@@ -48056,6 +48855,7 @@ Object {
         "wind",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/130.svg",
     "makes": Array [
       Object {
         "source": "air",
@@ -48119,6 +48919,7 @@ Object {
         "wall",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/465.svg",
     "makes": Array [
       Object {
         "source": "ash",
@@ -48186,6 +48987,7 @@ Object {
         "thread",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/455.svg",
     "makes": Array [
       Object {
         "source": "animal",
@@ -48209,6 +49011,7 @@ Object {
         "wolf",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/243.svg",
     "makes": Array [
       Object {
         "source": "cow",
@@ -48236,6 +49039,7 @@ Object {
         "grass",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/84.svg",
     "makes": Array [
       Object {
         "source": "alcohol",
@@ -48359,6 +49163,7 @@ Object {
         "water",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/82.svg",
     "makes": Array [
       Object {
         "source": "bicycle",
@@ -48514,6 +49319,7 @@ Object {
         "pig",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/420.svg",
     "makes": Array [
       Object {
         "source": "giant",
@@ -48545,6 +49351,7 @@ Object {
         "monster",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com",
     "makes": Array [],
     "myths": true,
   },
@@ -48563,6 +49370,7 @@ Object {
         "motion",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/20.svg",
     "makes": Array [
       Object {
         "source": "beach",
@@ -48738,6 +49546,7 @@ Object {
         "windmill",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/406.svg",
     "makes": Array [
       Object {
         "source": "airplane",
@@ -48801,6 +49610,7 @@ Object {
         "wind",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/151.svg",
     "makes": Array [
       Object {
         "source": "airplane",
@@ -48864,6 +49674,7 @@ Object {
         "wind",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/735.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -48878,6 +49689,7 @@ Object {
         "juice",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/235.svg",
     "makes": Array [
       Object {
         "source": "air",
@@ -48941,6 +49753,7 @@ Object {
         "steel",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/119.svg",
     "makes": Array [
       Object {
         "source": "angel",
@@ -49080,6 +49893,7 @@ Object {
         "story",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/452.svg",
     "makes": Array [
       Object {
         "source": "campfire",
@@ -49143,6 +49957,7 @@ Object {
         "unicorn",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/349.svg",
     "makes": Array [
       Object {
         "source": "bird",
@@ -49218,6 +50033,7 @@ Object {
         "forest",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/242.svg",
     "makes": Array [
       Object {
         "source": "barn",
@@ -49345,6 +50161,7 @@ Object {
         "squirrel",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_106.svg",
     "makes": Array [],
     "myths": true,
   },
@@ -49387,6 +50204,7 @@ Object {
         "tree",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/56.svg",
     "makes": Array [
       Object {
         "source": "air",
@@ -49662,6 +50480,7 @@ Object {
         "wood",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/437.svg",
     "makes": Array [
       Object {
         "source": "tool",
@@ -49689,6 +50508,7 @@ Object {
         "tool",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/361.svg",
     "makes": Array [
       Object {
         "source": "christmas-tree",
@@ -49752,6 +50572,7 @@ Object {
         "turtle",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_76.svg",
     "makes": Array [],
     "myths": true,
   },
@@ -49774,6 +50595,7 @@ Object {
         "santa",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/471.svg",
     "makes": Array [
       Object {
         "source": "christmas-stocking",
@@ -49805,6 +50627,7 @@ Object {
         "pencil",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/895.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -49843,6 +50666,7 @@ Object {
         "story",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/565.svg",
     "makes": Array [],
     "myths": false,
   },
@@ -49857,6 +50681,7 @@ Object {
         "tree",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_77.svg",
     "makes": Array [],
     "myths": true,
   },
@@ -49871,6 +50696,7 @@ Object {
         "milk",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/229.svg",
     "makes": Array [
       Object {
         "source": "cold",
@@ -49902,6 +50728,7 @@ Object {
         "sky",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_78.svg",
     "makes": Array [
       Object {
         "source": "giant",
@@ -49933,6 +50760,7 @@ Object {
         "phoenix",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/1_79.svg",
     "makes": Array [],
     "myths": true,
   },
@@ -49955,6 +50783,7 @@ Object {
         "zombie",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/96.svg",
     "makes": Array [
       Object {
         "source": "electricity",
@@ -49986,6 +50815,7 @@ Object {
         "container",
       ],
     ],
+    "image_url": "https://hints.littlealchemy2.com/icons/698.svg",
     "makes": Array [],
     "myths": false,
   },

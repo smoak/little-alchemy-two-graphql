@@ -47,6 +47,7 @@ type Item implements Node {
   myths: Boolean!
   creates(after: String, first: Int, before: String, last: Int): ItemCombinationConnection!
   combinations(after: String, first: Int, before: String, last: Int): ItemCombinationConnection!
+  imageUrl: String!
 }
 
 type ItemSearchResults {

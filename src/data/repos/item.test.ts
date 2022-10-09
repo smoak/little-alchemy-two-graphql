@@ -14,6 +14,7 @@ describe('item', () => {
       },
     ],
     myths: false,
+    image_url: 'https://picsum.photos/48',
   };
 
   describe('.findById', () => {

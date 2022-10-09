@@ -16,7 +16,9 @@ import {
 } from './item';
 
 describe('item', () => {
-  const items: Item[] = [{ combinations: [], creates: [], myths: false, name: 'test-item' }];
+  const items: Item[] = [
+    { combinations: [], creates: [], myths: false, name: 'test-item', imageUrl: 'https://picsum.photos/48' },
+  ];
   const itemCombination: ItemCombination = {
     source: 'source-item',
     target: 'target-item',
@@ -100,6 +102,7 @@ describe('item', () => {
         combinations: [itemCombination],
         creates: [itemCombination],
         myths: false,
+        imageUrl: 'https://picsum.photos/48',
       };
       const args: ConnectionArguments = {};
       result = itemCombinationConnectionResolver(item, args);
@@ -119,6 +122,7 @@ describe('item', () => {
         combinations: [itemCombination],
         creates: [itemCombination],
         myths: false,
+        imageUrl: 'https://picsum.photos/48',
       };
       const args: ConnectionArguments = {};
 

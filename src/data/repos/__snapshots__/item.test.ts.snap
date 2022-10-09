@@ -15,6 +15,7 @@ Array [
         "target": "item2",
       },
     ],
+    "imageUrl": "https://picsum.photos/48",
     "myths": false,
     "name": "item",
   },
@@ -35,6 +36,7 @@ Object {
       "target": "item2",
     },
   ],
+  "imageUrl": "https://picsum.photos/48",
   "myths": false,
   "name": "item",
 }
@@ -59,6 +61,7 @@ Array [
         "target": "item2",
       },
     ],
+    "imageUrl": "https://picsum.photos/48",
     "myths": false,
     "name": "item1",
   },
