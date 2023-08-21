@@ -1,17 +1,17 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`item .itemCombinationConnectionResolver returns the expected result 1`] = `
-Object {
-  "edges": Array [
-    Object {
+{
+  "edges": [
+    {
       "cursor": "YXJyYXljb25uZWN0aW9uOjA=",
-      "node": Object {
+      "node": {
         "source": "source-item",
         "target": "target-item",
       },
     },
   ],
-  "pageInfo": Object {
+  "pageInfo": {
     "endCursor": "YXJyYXljb25uZWN0aW9uOjA=",
     "hasNextPage": false,
     "hasPreviousPage": false,
@@ -21,20 +21,20 @@ Object {
 `;
 
 exports[`item .itemConnectionResolver returns the expected result 1`] = `
-Object {
-  "edges": Array [
-    Object {
+{
+  "edges": [
+    {
       "cursor": "YXJyYXljb25uZWN0aW9uOjA=",
-      "node": Object {
-        "combinations": Array [],
-        "creates": Array [],
+      "node": {
+        "combinations": [],
+        "creates": [],
         "imageUrl": "https://picsum.photos/48",
         "myths": false,
         "name": "test-item",
       },
     },
   ],
-  "pageInfo": Object {
+  "pageInfo": {
     "endCursor": "YXJyYXljb25uZWN0aW9uOjA=",
     "hasNextPage": false,
     "hasPreviousPage": false,
@@ -44,17 +44,17 @@ Object {
 `;
 
 exports[`item .itemCreationConnectionResolver returns the expected result 1`] = `
-Object {
-  "edges": Array [
-    Object {
+{
+  "edges": [
+    {
       "cursor": "YXJyYXljb25uZWN0aW9uOjA=",
-      "node": Object {
+      "node": {
         "source": "source-item",
         "target": "target-item",
       },
     },
   ],
-  "pageInfo": Object {
+  "pageInfo": {
     "endCursor": "YXJyYXljb25uZWN0aW9uOjA=",
     "hasNextPage": false,
     "hasPreviousPage": false,

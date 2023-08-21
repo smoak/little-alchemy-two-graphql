@@ -1,20 +1,20 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`search .itemSearchResultsResolver returns the expected result 1`] = `
-Object {
-  "edges": Array [
-    Object {
+{
+  "edges": [
+    {
       "cursor": "YXJyYXljb25uZWN0aW9uOjA=",
-      "node": Object {
-        "combinations": Array [],
-        "creates": Array [],
+      "node": {
+        "combinations": [],
+        "creates": [],
         "imageUrl": "https://picsum.photos/48",
         "myths": false,
         "name": "test",
       },
     },
   ],
-  "pageInfo": Object {
+  "pageInfo": {
     "endCursor": "YXJyYXljb25uZWN0aW9uOjA=",
     "hasNextPage": false,
     "hasPreviousPage": false,
@@ -24,17 +24,17 @@ Object {
 `;
 
 exports[`search .searchResultsResolver with no results returns the expected result 1`] = `
-Object {
+{
   "message": "No results matched test",
 }
 `;
 
 exports[`search .searchResultsResolver with results returns the expected result 1`] = `
-Object {
-  "items": Array [
-    Object {
-      "combinations": Array [],
-      "creates": Array [],
+{
+  "items": [
+    {
+      "combinations": [],
+      "creates": [],
       "imageUrl": "https://picsum.photos/48",
       "myths": false,
       "name": "test",
