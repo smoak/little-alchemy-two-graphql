@@ -19,10 +19,10 @@
     "test:unit:watch": "jest --config config/jest/unit.js --watchAll"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.10",
-    "@babel/preset-env": "^7.12.11",
-    "@babel/preset-typescript": "^7.12.7",
-    "@types/cors": "^2.8.9",
+    "@babel/core": "^7.22.10",
+    "@babel/preset-env": "^7.22.10",
+    "@babel/preset-typescript": "^7.22.5",
+    "@types/cors": "^2.8.13",
     "@types/express": "^4.17.11",
     "@types/graphql-relay": "^0.6.0",
     "@types/jest": "^26.0.20",
