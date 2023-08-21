@@ -1,6 +1,8 @@
+import path from 'path';
+
 import cors, { CorsOptions } from 'cors';
 import express from 'express';
-import GraphQLHTTP from 'express-graphql';
+import { createHandler } from 'graphql-http/lib/use/express';
 
 import schema from './graphql/schema';
 
@@ -11,16 +13,13 @@ const corsOptions: CorsOptions = {
   origin: 'https://little-alchemy-two-web.netlify.app',
 };
 
-app.use(
-  '/graphql',
-  cors(corsOptions),
-  GraphQLHTTP({
-    schema,
-    graphiql: true,
-  })
-);
+app.use('/graphql', cors(corsOptions), createHandler({ schema }));
 
-app.listen(port, hostname, () => {
+app.get('/graphiql', (_, res) => {
+  res.sendFile(path.join(__dirname, 'graphiql.html'));
+});
+
+app.listen({ port, hostname }, () => {
   console.log(`server started at http://${hostname}:${port}`);
 });
 

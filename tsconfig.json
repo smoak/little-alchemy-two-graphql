@@ -21,7 +21,6 @@
     "strict": true,
     "strictFunctionTypes": false,
     "strictNullChecks": true,
-    "suppressImplicitAnyIndexErrors": true,
     "target": "es2015"
   },
   "include": [
