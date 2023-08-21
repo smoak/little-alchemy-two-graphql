@@ -1641,6 +1641,7 @@
           "sea"
         ],
         [
+          "island",
           "island"
         ]
       ],
@@ -2090,6 +2091,7 @@
           "explosion"
         ],
         [
+          "explosion",
           "explosion"
         ]
       ],
@@ -3583,6 +3585,7 @@
           "wheel"
         ],
         [
+          "wheel",
           "wheel"
         ]
       ],
@@ -3842,9 +3845,11 @@
       "myths": false,
       "combinations": [
         [
+          "glasses",
           "glasses"
         ],
         [
+          "telescope",
           "telescope"
         ]
       ],
@@ -4537,6 +4542,7 @@
           "wind"
         ],
         [
+          "snow",
           "snow"
         ]
       ],
@@ -4890,6 +4896,7 @@
           "wood"
         ],
         [
+          "newspaper",
           "newspaper"
         ]
       ],
@@ -5104,6 +5111,7 @@
           "stone"
         ],
         [
+          "rock",
           "rock"
         ]
       ],
@@ -5650,6 +5658,7 @@
           "train"
         ],
         [
+          "car",
           "car"
         ]
       ],
@@ -6350,9 +6359,11 @@
           "wheel"
         ],
         [
+          "bicycle",
           "bicycle"
         ],
         [
+          "motorcycle",
           "motorcycle"
         ]
       ],
@@ -7991,9 +8002,11 @@
           "village"
         ],
         [
+          "skyscraper",
           "skyscraper"
         ],
         [
+          "village",
           "village"
         ]
       ],
@@ -8967,6 +8980,7 @@
       "myths": false,
       "combinations": [
         [
+          "star",
           "star"
         ]
       ],
@@ -9637,9 +9651,11 @@
           "land"
         ],
         [
+          "land",
           "land"
         ],
         [
+          "mountain-range",
           "mountain-range"
         ]
       ],
@@ -9755,6 +9771,7 @@
           "cook"
         ],
         [
+          "recipe",
           "recipe"
         ]
       ],
@@ -10866,6 +10883,7 @@
           "poseidon"
         ],
         [
+          "giant",
           "giant"
         ]
       ],
@@ -11536,6 +11554,7 @@
           "vulture"
         ],
         [
+          "sand",
           "sand"
         ]
       ],
@@ -12475,6 +12494,7 @@
       "myths": false,
       "combinations": [
         [
+          "rainbow",
           "rainbow"
         ]
       ],
@@ -13468,105 +13488,139 @@
           "life"
         ],
         [
+          "ant",
           "ant"
         ],
         [
+          "bee",
           "bee"
         ],
         [
+          "bird",
           "bird"
         ],
         [
+          "butterfly",
           "butterfly"
         ],
         [
+          "chameleon",
           "chameleon"
         ],
         [
+          "chicken",
           "chicken"
         ],
         [
+          "crow",
           "crow"
         ],
         [
+          "dinosaur",
           "dinosaur"
         ],
         [
+          "dragon",
           "dragon"
         ],
         [
+          "duck",
           "duck"
         ],
         [
+          "eagle",
           "eagle"
         ],
         [
+          "fish",
           "fish"
         ],
         [
+          "flying-fish",
           "flying-fish"
         ],
         [
+          "frog",
           "frog"
         ],
         [
+          "hummingbird",
           "hummingbird"
         ],
         [
+          "lizard",
           "lizard"
         ],
         [
+          "moth",
           "moth"
         ],
         [
+          "ostrich",
           "ostrich"
         ],
         [
+          "owl",
           "owl"
         ],
         [
+          "parrot",
           "parrot"
         ],
         [
+          "peacock",
           "peacock"
         ],
         [
+          "penguin",
           "penguin"
         ],
         [
+          "phoenix",
           "phoenix"
         ],
         [
+          "pigeon",
           "pigeon"
         ],
         [
+          "piranha",
           "piranha"
         ],
         [
+          "pterodactyl",
           "pterodactyl"
         ],
         [
+          "scorpion",
           "scorpion"
         ],
         [
+          "seagull",
           "seagull"
         ],
         [
+          "snake",
           "snake"
         ],
         [
+          "spider",
           "spider"
         ],
         [
+          "turtle",
           "turtle"
         ],
         [
+          "tyrannosaurus-rex",
           "tyrannosaurus-rex"
         ],
         [
+          "vulture",
           "vulture"
         ],
         [
+          "woodpecker",
           "woodpecker"
         ]
       ],
@@ -14177,6 +14231,7 @@
           "science"
         ],
         [
+          "fire",
           "fire"
         ]
       ],
@@ -14900,6 +14955,7 @@
           "human"
         ],
         [
+          "human",
           "human"
         ]
       ],
@@ -16307,6 +16363,7 @@
           "time"
         ],
         [
+          "rain",
           "rain"
         ]
       ],
@@ -16333,6 +16390,7 @@
           "windmill"
         ],
         [
+          "wheat",
           "wheat"
         ]
       ],
@@ -16764,6 +16822,7 @@
           "tree"
         ],
         [
+          "tree",
           "tree"
         ]
       ],
@@ -17477,12 +17536,15 @@
           "star"
         ],
         [
+          "solar-system",
           "solar-system"
         ],
         [
+          "space",
           "space"
         ],
         [
+          "star",
           "star"
         ]
       ],
@@ -17530,6 +17592,7 @@
           "galaxy"
         ],
         [
+          "galaxy",
           "galaxy"
         ]
       ],
@@ -17773,6 +17836,7 @@
           "plant"
         ],
         [
+          "flower",
           "flower"
         ]
       ],
@@ -18668,9 +18732,11 @@
           "lens"
         ],
         [
+          "glass",
           "glass"
         ],
         [
+          "lens",
           "lens"
         ]
       ],
@@ -19599,9 +19665,11 @@
           "land"
         ],
         [
+          "grave",
           "grave"
         ],
         [
+          "gravestone",
           "gravestone"
         ]
       ],
@@ -20432,6 +20500,7 @@
           "sun"
         ],
         [
+          "grass",
           "grass"
         ]
       ],
@@ -20523,6 +20592,7 @@
           "tractor"
         ],
         [
+          "hay",
           "hay"
         ]
       ],
@@ -21000,6 +21070,7 @@
           "small"
         ],
         [
+          "boulder",
           "boulder"
         ]
       ],
@@ -21211,6 +21282,7 @@
           "beekeeper"
         ],
         [
+          "bee",
           "bee"
         ]
       ],
@@ -21574,6 +21646,7 @@
           "wall"
         ],
         [
+          "wall",
           "wall"
         ]
       ],
@@ -23374,84 +23447,111 @@
           "science"
         ],
         [
+          "alchemist",
           "alchemist"
         ],
         [
+          "angler",
           "angler"
         ],
         [
+          "astronaut",
           "astronaut"
         ],
         [
+          "baker",
           "baker"
         ],
         [
+          "butcher",
           "butcher"
         ],
         [
+          "cyclist",
           "cyclist"
         ],
         [
+          "diver",
           "diver"
         ],
         [
+          "doctor",
           "doctor"
         ],
         [
+          "electrician",
           "electrician"
         ],
         [
+          "engineer",
           "engineer"
         ],
         [
+          "farmer",
           "farmer"
         ],
         [
+          "firefighter",
           "firefighter"
         ],
         [
+          "gardener",
           "gardener"
         ],
         [
+          "hacker",
           "hacker"
         ],
         [
+          "knight",
           "knight"
         ],
         [
+          "librarian",
           "librarian"
         ],
         [
+          "lumberjack",
           "lumberjack"
         ],
         [
+          "mailman",
           "mailman"
         ],
         [
+          "monarch",
           "monarch"
         ],
         [
+          "philosophy",
           "philosophy"
         ],
         [
+          "pilot",
           "pilot"
         ],
         [
+          "sailor",
           "sailor"
         ],
         [
+          "science",
           "science"
         ],
         [
+          "skier",
           "skier"
         ],
         [
+          "surfer",
           "surfer"
         ],
         [
+          "swimmer",
           "swimmer"
         ],
         [
+          "warrior",
           "warrior"
         ]
       ],
@@ -23625,6 +23725,7 @@
           "wire"
         ],
         [
+          "computer",
           "computer"
         ]
       ],
@@ -24417,6 +24518,7 @@
           "small"
         ],
         [
+          "pond",
           "pond"
         ]
       ],
@@ -24684,9 +24786,11 @@
           "stone"
         ],
         [
+          "earth",
           "earth"
         ],
         [
+          "soil",
           "soil"
         ]
       ],
@@ -25156,6 +25260,7 @@
           "time"
         ],
         [
+          "story",
           "story"
         ]
       ],
@@ -26444,6 +26549,7 @@
       "myths": false,
       "combinations": [
         [
+          "human",
           "human"
         ]
       ],
@@ -26602,6 +26708,7 @@
           "wheel"
         ],
         [
+          "tool",
           "tool"
         ]
       ],
@@ -29421,6 +29528,7 @@
           "hill"
         ],
         [
+          "hill",
           "hill"
         ]
       ],
@@ -29684,6 +29792,7 @@
           "mountain"
         ],
         [
+          "mountain",
           "mountain"
         ]
       ],
@@ -30403,9 +30512,11 @@
           "story"
         ],
         [
+          "letter",
           "letter"
         ],
         [
+          "paper",
           "paper"
         ]
       ],
@@ -30746,6 +30857,7 @@
           "water"
         ],
         [
+          "sea",
           "sea"
         ]
       ],
@@ -31226,6 +31338,7 @@
           "tree"
         ],
         [
+          "fruit-tree",
           "fruit-tree"
         ]
       ],
@@ -31676,6 +31789,7 @@
           "oxygen"
         ],
         [
+          "oxygen",
           "oxygen"
         ]
       ],
@@ -31946,6 +32060,7 @@
       "myths": false,
       "combinations": [
         [
+          "flute",
           "flute"
         ]
       ],
@@ -33800,6 +33915,7 @@
           "space"
         ],
         [
+          "continent",
           "continent"
         ]
       ],
@@ -34238,6 +34354,7 @@
           "sun"
         ],
         [
+          "heat",
           "heat"
         ]
       ],
@@ -34382,6 +34499,7 @@
           "water"
         ],
         [
+          "puddle",
           "puddle"
         ]
       ],
@@ -34552,6 +34670,7 @@
           "wall"
         ],
         [
+          "letter",
           "letter"
         ]
       ],
@@ -34678,12 +34797,15 @@
           "science"
         ],
         [
+          "air",
           "air"
         ],
         [
+          "atmosphere",
           "atmosphere"
         ],
         [
+          "ocean",
           "ocean"
         ]
       ],
@@ -34973,6 +35095,7 @@
           "small"
         ],
         [
+          "water",
           "water"
         ]
       ],
@@ -35226,6 +35349,7 @@
           "carrot"
         ],
         [
+          "rabbit",
           "rabbit"
         ]
       ],
@@ -36171,6 +36295,7 @@
           "small"
         ],
         [
+          "pebble",
           "pebble"
         ]
       ],
@@ -36493,6 +36618,7 @@
           "wire"
         ],
         [
+          "thread",
           "thread"
         ]
       ],
@@ -37914,9 +38040,11 @@
           "sword"
         ],
         [
+          "blade",
           "blade"
         ],
         [
+          "sword",
           "sword"
         ]
       ],
@@ -38116,6 +38244,7 @@
           "small"
         ],
         [
+          "lake",
           "lake"
         ]
       ],
@@ -39150,6 +39279,7 @@
           "time"
         ],
         [
+          "bone",
           "bone"
         ]
       ],
@@ -40449,6 +40579,7 @@
           "snow"
         ],
         [
+          "snowball",
           "snowball"
         ]
       ],
@@ -40735,6 +40866,7 @@
           "sun"
         ],
         [
+          "planet",
           "planet"
         ]
       ],
@@ -42569,6 +42701,7 @@
           "wind"
         ],
         [
+          "cloud",
           "cloud"
         ]
       ],
@@ -44438,6 +44571,7 @@
           "wheel"
         ],
         [
+          "cotton",
           "cotton"
         ]
       ],
@@ -45375,9 +45509,11 @@
           "wind"
         ],
         [
+          "storm",
           "storm"
         ],
         [
+          "wind",
           "wind"
         ]
       ],
@@ -46338,6 +46474,7 @@
           "space"
         ],
         [
+          "galaxy-cluster",
           "galaxy-cluster"
         ]
       ],
@@ -46716,9 +46853,11 @@
           "house"
         ],
         [
+          "family",
           "family"
         ],
         [
+          "house",
           "house"
         ]
       ],
@@ -47187,12 +47326,15 @@
       "myths": false,
       "combinations": [
         [
+          "brick",
           "brick"
         ],
         [
+          "stone",
           "stone"
         ],
         [
+          "wood",
           "wood"
         ]
       ],
